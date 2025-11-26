@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Coelacanth",
+        "url": "https://nookipedia.com/wiki/Coelacanth",
+        "image_url": "https://dodo.ac/np/images/thumb/2/26/Coelacanth_NH_Icon.png/64px-Coelacanth_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "Sea (raining)",
+        "shadow_size": "Huge",
+        "rarity": "Ultra-rare",
+        "north": {
+            "months": "All year"
+        },
+        "south": {
+            "months": "All year"
+        }
+    },
+    {
+        "name": "Great White Shark",
+        "url": "https://nookipedia.com/wiki/Great_White_Shark",
+        "image_url": "https://dodo.ac/np/images/thumb/c/c0/Great_White_Shark_NH_Icon.png/64px-Great_White_Shark_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "Sea",
+        "shadow_size": "Large w/Fin",
+        "rarity": "Rare",
+        "north": {
+            "months": "Jun – Sep"
+        },
+        "south": {
+            "months": "Dec – Mar"
+        }
+    },
+    {
+        "name": "Dorado",
+        "url": "https://nookipedia.com/wiki/Dorado",
+        "image_url": "https://dodo.ac/np/images/thumb/1/18/Dorado_NH_Icon.png/64px-Dorado_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "River",
+        "shadow_size": "Large",
+        "rarity": "Rare",
+        "north": {
+            "months": "Jun – Sep"
+        },
+        "south": {
+            "months": "Dec – Mar"
+        }
+    },
+    {
+        "name": "Stringfish",
+        "url": "https://nookipedia.com/wiki/Stringfish",
+        "image_url": "https://dodo.ac/np/images/thumb/3/3d/Stringfish_NH_Icon.png/64px-Stringfish_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "River (clifftop)",
+        "shadow_size": "Huge",
+        "rarity": "Rare",
+        "north": {
+            "months": "Dec – Mar"
+        },
+        "south": {
+            "months": "Jun – Sep"
+        }
+    },
+    {
+        "name": "Golden Trout",
+        "url": "https://nookipedia.com/wiki/Golden_Trout",
+        "image_url": "https://dodo.ac/np/images/thumb/d/d0/Golden_Trout_NH_Icon.png/64px-Golden_Trout_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "River (clifftop)",
+        "shadow_size": "Medium",
+        "rarity": "Rare",
+        "north": {
+            "months": "Mar – May; Sep – Nov"
+        },
+        "south": {
+            "months": "Sep – Nov; Mar – May"
+        }
+    },
+    {
+        "name": "Barreleye",
+        "url": "https://nookipedia.com/wiki/Barreleye",
+        "image_url": "https://dodo.ac/np/images/thumb/0/0e/Barreleye_NH_Icon.png/64px-Barreleye_NH_Icon.png",
+        "sell_nook": 15000,
+        "sell_cj": 22500,
+        "location": "Sea",
+        "shadow_size": "Small",
+        "rarity": "Rare",
+        "north": {
+            "months": "All year"
+        },
+        "south": {
+            "months": "All year"
+        }
+    }
+]

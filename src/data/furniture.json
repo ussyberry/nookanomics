@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Grand Piano",
+        "url": "https://nookipedia.com/wiki/Grand_Piano",
+        "image_url": "https://dodo.ac/np/images/thumb/8/8c/Grand_Piano_%28Black%29_NH_Icon.png/64px-Grand_Piano_%28Black%29_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 5000,
+        "buy": 260000,
+        "sell": 65000,
+        "themes": [
+            "Expensive"
+        ],
+        "tag": "Musical instrument",
+        "lucky": false
+    },
+    {
+        "name": "Throne",
+        "url": "https://nookipedia.com/wiki/Throne",
+        "image_url": "https://dodo.ac/np/images/thumb/f/f3/Throne_%28Red%29_NH_Icon.png/64px-Throne_%28Red%29_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 4500,
+        "buy": 800000,
+        "sell": 200000,
+        "themes": [
+            "Expensive"
+        ],
+        "tag": "Chair",
+        "lucky": false
+    },
+    {
+        "name": "Golden Casket",
+        "url": "https://nookipedia.com/wiki/Golden_Casket",
+        "image_url": "https://dodo.ac/np/images/thumb/2/2e/Golden_Casket_NH_Icon.png/64px-Golden_Casket_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 4000,
+        "buy": null,
+        "sell": 10000,
+        "themes": [
+            "Expensive"
+        ],
+        "tag": "Furniture",
+        "lucky": false
+    },
+    {
+        "name": "Antique Console Table",
+        "url": "https://nookipedia.com/wiki/Antique_Console_Table",
+        "image_url": "https://dodo.ac/np/images/thumb/3/35/Antique_Console_Table_%28Brown%29_NH_Icon.png/64px-Antique_Console_Table_%28Brown%29_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 3500,
+        "buy": 17000,
+        "sell": 4250,
+        "themes": [
+            "Expensive"
+        ],
+        "tag": "Table",
+        "lucky": false
+    },
+    {
+        "name": "Imperial Bed",
+        "url": "https://nookipedia.com/wiki/Imperial_Bed",
+        "image_url": "https://dodo.ac/np/images/thumb/8/8f/Imperial_Bed_%28Red%29_NH_Icon.png/64px-Imperial_Bed_%28Red%29_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 3200,
+        "buy": 23000,
+        "sell": 5750,
+        "themes": [
+            "Expensive"
+        ],
+        "tag": "Bed",
+        "lucky": false
+    },
+    {
+        "name": "Lucky Cat",
+        "url": "https://nookipedia.com/wiki/Lucky_Cat",
+        "image_url": "https://dodo.ac/np/images/thumb/0/0f/Lucky_Cat_%28White%29_NH_Icon.png/64px-Lucky_Cat_%28White%29_NH_Icon.png",
+        "category": "Housewares",
+        "hha_base": 777,
+        "buy": null,
+        "sell": 625,
+        "themes": [
+            "Harmonious"
+        ],
+        "tag": "Furniture",
+        "lucky": true
+    }
+]

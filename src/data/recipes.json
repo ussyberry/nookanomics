@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Golden Watering Can",
+        "url": "https://nookipedia.com/wiki/Golden_Watering_Can",
+        "image_url": "https://dodo.ac/np/images/thumb/3/3f/Golden_Watering_Can_NH_Icon.png/64px-Golden_Watering_Can_NH_Icon.png",
+        "sell": 2500,
+        "materials": [
+            {
+                "name": "Watering Can",
+                "count": 1
+            },
+            {
+                "name": "Gold Nugget",
+                "count": 1
+            }
+        ],
+        "material_cost": 1000
+    },
+    {
+        "name": "Robot Hero",
+        "url": "https://nookipedia.com/wiki/Robot_Hero",
+        "image_url": "https://dodo.ac/np/images/thumb/6/6f/Robot_Hero_NH_Icon.png/64px-Robot_Hero_NH_Icon.png",
+        "sell": 250000,
+        "materials": [
+            {
+                "name": "Rusted Part",
+                "count": 30
+            },
+            {
+                "name": "Gold Nugget",
+                "count": 10
+            },
+            {
+                "name": "Iron Nugget",
+                "count": 90
+            },
+            {
+                "name": "Rocket",
+                "count": 1
+            }
+        ],
+        "material_cost": 50000
+    },
+    {
+        "name": "Golden Casket",
+        "url": "https://nookipedia.com/wiki/Golden_Casket",
+        "image_url": "https://dodo.ac/np/images/thumb/2/2e/Golden_Casket_NH_Icon.png/64px-Golden_Casket_NH_Icon.png",
+        "sell": 10000,
+        "materials": [
+            {
+                "name": "Gold Nugget",
+                "count": 8
+            }
+        ],
+        "material_cost": 8000
+    },
+    {
+        "name": "Ironwood Dresser",
+        "url": "https://nookipedia.com/wiki/Ironwood_Dresser",
+        "image_url": "https://dodo.ac/np/images/thumb/8/8e/Ironwood_Dresser_NH_Icon.png/64px-Ironwood_Dresser_NH_Icon.png",
+        "sell": 3500,
+        "materials": [
+            {
+                "name": "Wood",
+                "count": 7
+            },
+            {
+                "name": "Iron Nugget",
+                "count": 4
+            }
+        ],
+        "material_cost": 1200
+    },
+    {
+        "name": "Cutting Board",
+        "url": "https://nookipedia.com/wiki/Cutting_Board",
+        "image_url": "https://dodo.ac/np/images/thumb/f/f0/Cutting_Board_NH_Icon.png/64px-Cutting_Board_NH_Icon.png",
+        "sell": 400,
+        "materials": [
+            {
+                "name": "Hardwood",
+                "count": 2
+            },
+            {
+                "name": "Iron Nugget",
+                "count": 1
+            }
+        ],
+        "material_cost": 300
+    },
+    {
+        "name": "Shell Arch",
+        "url": "https://nookipedia.com/wiki/Shell_Arch",
+        "image_url": "https://dodo.ac/np/images/thumb/3/3c/Shell_Arch_NH_Icon.png/64px-Shell_Arch_NH_Icon.png",
+        "sell": 12450,
+        "materials": [
+            {
+                "name": "Sea Snail",
+                "count": 3
+            },
+            {
+                "name": "Venus Comb",
+                "count": 3
+            },
+            {
+                "name": "Sand Dollar",
+                "count": 3
+            },
+            {
+                "name": "Coral",
+                "count": 3
+            },
+            {
+                "name": "Giant Clam",
+                "count": 3
+            },
+            {
+                "name": "Cowrie",
+                "count": 3
+            }
+        ],
+        "material_cost": 0
+    }
+]

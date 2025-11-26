@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Royal Crown",
+        "url": "https://nookipedia.com/wiki/Royal_Crown",
+        "image_url": "https://dodo.ac/np/images/thumb/c/c1/Royal_Crown_NH_Icon.png/64px-Royal_Crown_NH_Icon.png",
+        "buy": 1200000,
+        "sell": 300000,
+        "label_themes": [
+            "Fairy tale",
+            "Formal",
+            "Theatrical"
+        ],
+        "styles": [
+            "Gorgeous",
+            "Elegant"
+        ],
+        "seasonality": "All year",
+        "variations": []
+    },
+    {
+        "name": "Crown",
+        "url": "https://nookipedia.com/wiki/Crown",
+        "image_url": "https://dodo.ac/np/images/thumb/3/3d/Crown_NH_Icon.png/64px-Crown_NH_Icon.png",
+        "buy": 1000000,
+        "sell": 250000,
+        "label_themes": [
+            "Fairy tale",
+            "Formal",
+            "Theatrical"
+        ],
+        "styles": [
+            "Gorgeous",
+            "Cute"
+        ],
+        "seasonality": "All year",
+        "variations": []
+    },
+    {
+        "name": "Visual-Punk Dress",
+        "url": "https://nookipedia.com/wiki/Visual-Punk_Dress",
+        "image_url": "https://dodo.ac/np/images/thumb/3/3b/Visual-Punk_Dress_NH_Icon.png/64px-Visual-Punk_Dress_NH_Icon.png",
+        "buy": 2040,
+        "sell": 510,
+        "label_themes": [
+            "Goth",
+            "Party",
+            "Theatrical"
+        ],
+        "styles": [
+            "Cool"
+        ],
+        "seasonality": "All year",
+        "variations": []
+    },
+    {
+        "name": "Dreamy Dress",
+        "url": "https://nookipedia.com/wiki/Dreamy_Dress",
+        "image_url": "https://dodo.ac/np/images/thumb/0/02/Dreamy_Dress_%28Pink%29_NH_Icon.png/64px-Dreamy_Dress_%28Pink%29_NH_Icon.png",
+        "buy": 2080,
+        "sell": 520,
+        "label_themes": [
+            "Fairy tale",
+            "Party"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "seasonality": "All year",
+        "variations": [
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/thumb/0/02/Dreamy_Dress_%28Pink%29_NH_Icon.png/64px-Dreamy_Dress_%28Pink%29_NH_Icon.png"
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/thumb/9/9f/Dreamy_Dress_%28Blue%29_NH_Icon.png/64px-Dreamy_Dress_%28Blue%29_NH_Icon.png"
+            }
+        ]
+    },
+    {
+        "name": "Tuxedo Jacket",
+        "url": "https://nookipedia.com/wiki/Tuxedo_Jacket",
+        "image_url": "https://dodo.ac/np/images/thumb/6/64/Tuxedo_Jacket_%28Black%29_NH_Icon.png/64px-Tuxedo_Jacket_%28Black%29_NH_Icon.png",
+        "buy": 3800,
+        "sell": 950,
+        "label_themes": [
+            "Formal",
+            "Party",
+            "Work"
+        ],
+        "styles": [
+            "Gorgeous",
+            "Cool"
+        ],
+        "seasonality": "All year",
+        "variations": []
+    },
+    {
+        "name": "Space Parka",
+        "url": "https://nookipedia.com/wiki/Space_Parka",
+        "image_url": "https://dodo.ac/np/images/thumb/a/a9/Space_Parka_%28Blue%29_NH_Icon.png/64px-Space_Parka_%28Blue%29_NH_Icon.png",
+        "buy": 1680,
+        "sell": 420,
+        "label_themes": [
+            "Comfy",
+            "Sporty",
+            "Work"
+        ],
+        "styles": [
+            "Active",
+            "Cool"
+        ],
+        "seasonality": "Winter",
+        "variations": []
+    }
+]

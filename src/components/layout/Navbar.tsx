@@ -9,6 +9,12 @@ const Navbar = () => {
 
     const navItems = [
         { name: 'Home', path: '/' },
+        { name: 'Villagers', path: '/villagers' },
+        { name: 'Critterpedia', path: '/critters' },
+        { name: 'Art', path: '/art' },
+        { name: 'Fashion', path: '/fashion' },
+        { name: 'Real Estate', path: '/real-estate' },
+        { name: 'Manufacturing', path: '/manufacturing' },
         { name: 'Directory', path: '/directory' },
         { name: 'Videos', path: '/videos' },
         { name: 'Merchandise', path: '/merchandise' },

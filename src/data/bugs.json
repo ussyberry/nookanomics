@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Golden Stag",
+        "url": "https://nookipedia.com/wiki/Golden_Stag",
+        "image_url": "https://dodo.ac/np/images/thumb/8/82/Golden_Stag_NH_Icon.png/64px-Golden_Stag_NH_Icon.png",
+        "sell_nook": 12000,
+        "sell_flick": 18000,
+        "location": "Palm trees",
+        "weather": "Any weather",
+        "rarity": "Ultra-rare",
+        "north": {
+            "months": "Jul – Aug"
+        },
+        "south": {
+            "months": "Jan – Feb"
+        }
+    },
+    {
+        "name": "Giraffe Stag",
+        "url": "https://nookipedia.com/wiki/Giraffe_Stag",
+        "image_url": "https://dodo.ac/np/images/thumb/4/41/Giraffe_Stag_NH_Icon.png/64px-Giraffe_Stag_NH_Icon.png",
+        "sell_nook": 12000,
+        "sell_flick": 18000,
+        "location": "Palm trees",
+        "weather": "Any weather",
+        "rarity": "Rare",
+        "north": {
+            "months": "Jul – Aug"
+        },
+        "south": {
+            "months": "Jan – Feb"
+        }
+    },
+    {
+        "name": "Horned Hercules",
+        "url": "https://nookipedia.com/wiki/Horned_Hercules",
+        "image_url": "https://dodo.ac/np/images/thumb/c/c2/Horned_Hercules_NH_Icon.png/64px-Horned_Hercules_NH_Icon.png",
+        "sell_nook": 12000,
+        "sell_flick": 18000,
+        "location": "Palm trees",
+        "weather": "Any weather",
+        "rarity": "Rare",
+        "north": {
+            "months": "Jul – Aug"
+        },
+        "south": {
+            "months": "Jan – Feb"
+        }
+    },
+    {
+        "name": "Scorpion",
+        "url": "https://nookipedia.com/wiki/Scorpion",
+        "image_url": "https://dodo.ac/np/images/thumb/3/34/Scorpion_NH_Icon.png/64px-Scorpion_NH_Icon.png",
+        "sell_nook": 8000,
+        "sell_flick": 12000,
+        "location": "On the ground",
+        "weather": "Any weather",
+        "rarity": "Rare",
+        "north": {
+            "months": "May – Oct"
+        },
+        "south": {
+            "months": "Nov – Apr"
+        }
+    },
+    {
+        "name": "Tarantula",
+        "url": "https://nookipedia.com/wiki/Tarantula",
+        "image_url": "https://dodo.ac/np/images/thumb/e/e5/Tarantula_NH_Icon.png/64px-Tarantula_NH_Icon.png",
+        "sell_nook": 8000,
+        "sell_flick": 12000,
+        "location": "On the ground",
+        "weather": "Any weather",
+        "rarity": "Rare",
+        "north": {
+            "months": "Nov – Apr"
+        },
+        "south": {
+            "months": "May – Oct"
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Academic Painting",
+        "url": "https://nookipedia.com/wiki/Academic_Painting",
+        "has_fake": true,
+        "art_name": "Vitruvian Man",
+        "art_type": "Painting",
+        "author": "Leonardo da Vinci",
+        "year": "circa 1487",
+        "art_style": "Pen and ink on paper",
+        "buy": 4980,
+        "sell": 1245,
+        "availability": "Jolly Redd's Treasure Trawler",
+        "real_info": {
+            "image_url": "https://dodo.ac/np/images/e/e8/Academic_Painting_NH_Icon.png",
+            "description": "This drawing is based on the \"ideal\" human-body ratio, as stated in \"De architectura.\""
+        },
+        "fake_info": {
+            "image_url": "https://dodo.ac/np/images/4/46/Academic_Painting_%28Fake%29_NH_Icon.png",
+            "description": "In the forgery, there is a coffee stain in the top right corner."
+        }
+    },
+    {
+        "name": "Beautiful Statue",
+        "url": "https://nookipedia.com/wiki/Beautiful_Statue",
+        "has_fake": true,
+        "art_name": "Venus de Milo",
+        "art_type": "Statue",
+        "author": "Unknown",
+        "year": "circa 130 BCE",
+        "art_style": "Marble",
+        "buy": 4980,
+        "sell": 1245,
+        "availability": "Jolly Redd's Treasure Trawler",
+        "real_info": {
+            "image_url": "https://dodo.ac/np/images/6/61/Beautiful_Statue_NH_Icon.png",
+            "description": "A statue of the Roman goddess of love and beauty, Venus. Found on the island of Milos."
+        },
+        "fake_info": {
+            "image_url": "https://dodo.ac/np/images/1/13/Beautiful_Statue_%28Fake%29_NH_Icon.png",
+            "description": "The forgery is wearing a necklace."
+        }
+    },
+    {
+        "name": "Gallant Statue",
+        "url": "https://nookipedia.com/wiki/Gallant_Statue",
+        "has_fake": true,
+        "art_name": "David",
+        "art_type": "Statue",
+        "author": "Michelangelo",
+        "year": "1501-1504",
+        "art_style": "Marble",
+        "buy": 4980,
+        "sell": 1245,
+        "availability": "Jolly Redd's Treasure Trawler",
+        "real_info": {
+            "image_url": "https://dodo.ac/np/images/8/86/Gallant_Statue_NH_Icon.png",
+            "description": "A statue of the biblical hero David, a masterpiece of Renaissance sculpture."
+        },
+        "fake_info": {
+            "image_url": "https://dodo.ac/np/images/8/84/Gallant_Statue_%28Fake%29_NH_Icon.png",
+            "description": "The forgery is holding a book in its right hand."
+        }
+    },
+    {
+        "name": "Valiant Statue",
+        "url": "https://nookipedia.com/wiki/Valiant_Statue",
+        "has_fake": true,
+        "art_name": "Nike of Samothrace",
+        "art_type": "Statue",
+        "author": "Unknown",
+        "year": "circa 190 BCE",
+        "art_style": "Marble",
+        "buy": 4980,
+        "sell": 1245,
+        "availability": "Jolly Redd's Treasure Trawler",
+        "real_info": {
+            "image_url": "https://dodo.ac/np/images/3/34/Valiant_Statue_NH_Icon.png",
+            "description": "A statue of Nike, the Greek goddess of victory."
+        },
+        "fake_info": {
+            "image_url": "https://dodo.ac/np/images/3/38/Valiant_Statue_%28Fake%29_NH_Icon.png",
+            "description": "The forgery is a mirror image of the original (left leg forward instead of right)."
+        }
+    }
+]
