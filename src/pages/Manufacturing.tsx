@@ -71,15 +71,6 @@ const Manufacturing = () => {
                 >
                     Optimize your crafting profits. Analyze material costs and maximize returns.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline sample data. Add API key for full recipe catalog.
-                    </motion.div>
-                )}
             </div>
 
             {/* Controls */}
@@ -103,8 +94,8 @@ const Manufacturing = () => {
                     <button
                         onClick={() => setSortBy('profit')}
                         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${sortBy === 'profit'
-                                ? 'bg-orange-600 text-white shadow-md'
-                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                            ? 'bg-orange-600 text-white shadow-md'
+                            : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                             }`}
                     >
                         <TrendingUp className="w-4 h-4 inline mr-1" />
@@ -113,8 +104,8 @@ const Manufacturing = () => {
                     <button
                         onClick={() => setSortBy('margin')}
                         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${sortBy === 'margin'
-                                ? 'bg-orange-600 text-white shadow-md'
-                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                            ? 'bg-orange-600 text-white shadow-md'
+                            : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                             }`}
                     >
                         <Package className="w-4 h-4 inline mr-1" />

@@ -1,86 +1,2147 @@
 [
     {
-        "name": "Grand Piano",
-        "url": "https://nookipedia.com/wiki/Grand_Piano",
-        "image_url": "https://dodo.ac/np/images/thumb/8/8c/Grand_Piano_%28Black%29_NH_Icon.png/64px-Grand_Piano_%28Black%29_NH_Icon.png",
-        "category": "Housewares",
-        "hha_base": 5000,
-        "buy": 260000,
-        "sell": 65000,
+        "url": "https://nookipedia.com/wiki/Item%3A1-Up%20Mushroom%20%28New%20Horizons%29",
+        "name": "1-Up Mushroom",
+        "category": "Miscellaneous",
+        "item_series": "Mario",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Mario",
+        "hha_base": 201,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 500,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "7.390978",
+        "door_decor": false,
+        "version_added": "1.8.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
         "themes": [
-            "Expensive"
+            "Fancy",
+            "Child's room"
         ],
-        "tag": "Musical instrument",
-        "lucky": false
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "''Super Mario Bros.'' 35th anniversary"
+            }
+        ],
+        "buy": [
+            {
+                "price": 2000,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/7/77/1-Up_Mushroom_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            }
+        ]
     },
     {
-        "name": "Throne",
-        "url": "https://nookipedia.com/wiki/Throne",
-        "image_url": "https://dodo.ac/np/images/thumb/f/f3/Throne_%28Red%29_NH_Icon.png/64px-Throne_%28Red%29_NH_Icon.png",
+        "url": "https://nookipedia.com/wiki/Item%3A2021%20celebratory%20arch%20%28New%20Horizons%29",
+        "name": "2021 celebratory arch",
         "category": "Housewares",
-        "hha_base": 4500,
-        "buy": 800000,
-        "sell": 200000,
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Arch",
+        "hha_base": 201,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 505,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "26.48444",
+        "door_decor": false,
+        "version_added": "1.6.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 3,
+        "grid_length": 1,
         "themes": [
-            "Expensive"
+            "Party"
         ],
-        "tag": "Chair",
-        "lucky": false
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "Seasonal"
+            }
+        ],
+        "buy": [
+            {
+                "price": 2021,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/5/59/2021_Celebratory_Arch_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            }
+        ]
     },
     {
-        "name": "Golden Casket",
-        "url": "https://nookipedia.com/wiki/Golden_Casket",
-        "image_url": "https://dodo.ac/np/images/thumb/2/2e/Golden_Casket_NH_Icon.png/64px-Golden_Casket_NH_Icon.png",
+        "url": "https://nookipedia.com/wiki/Item%3A2022%20celebratory%20arch%20%28New%20Horizons%29",
+        "name": "2022 celebratory arch",
         "category": "Housewares",
-        "hha_base": 4000,
-        "buy": null,
-        "sell": 10000,
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Arch",
+        "hha_base": 201,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 505,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "26.48444",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 3,
+        "grid_length": 1,
         "themes": [
-            "Expensive"
+            "Party"
         ],
-        "tag": "Furniture",
-        "lucky": false
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "Seasonal"
+            }
+        ],
+        "buy": [
+            {
+                "price": 2022,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/a/a3/2022_Celebratory_Arch_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Aqua"
+                ]
+            }
+        ]
     },
     {
-        "name": "Antique Console Table",
-        "url": "https://nookipedia.com/wiki/Antique_Console_Table",
-        "image_url": "https://dodo.ac/np/images/thumb/3/35/Antique_Console_Table_%28Brown%29_NH_Icon.png/64px-Antique_Console_Table_%28Brown%29_NH_Icon.png",
+        "url": "https://nookipedia.com/wiki/Item%3A%3F%20Block%20%28New%20Horizons%29",
+        "name": "? Block",
         "category": "Housewares",
-        "hha_base": 3500,
-        "buy": 17000,
-        "sell": 4250,
+        "item_series": "Mario",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Mario",
+        "hha_base": 201,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 337,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "30",
+        "door_decor": false,
+        "version_added": "1.8.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
         "themes": [
-            "Expensive"
+            "Fancy",
+            "Child's room"
         ],
-        "tag": "Table",
-        "lucky": false
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "''Super Mario Bros.'' 35th anniversary"
+            }
+        ],
+        "buy": [
+            {
+                "price": 1350,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/0b/%3F_Block_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            }
+        ]
     },
     {
-        "name": "Imperial Bed",
-        "url": "https://nookipedia.com/wiki/Imperial_Bed",
-        "image_url": "https://dodo.ac/np/images/thumb/8/8f/Imperial_Bed_%28Red%29_NH_Icon.png/64px-Imperial_Bed_%28Red%29_NH_Icon.png",
+        "url": "https://nookipedia.com/wiki/Item%3AABD%20%28New%20Horizons%29",
+        "name": "ABD",
         "category": "Housewares",
-        "hha_base": 3200,
-        "buy": 23000,
-        "sell": 5750,
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Shop",
+        "hha_base": 151,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 49500,
+        "variation_total": 5,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "15.34572",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
         "themes": [
-            "Expensive"
+            "Facility",
+            "City life"
         ],
-        "tag": "Bed",
-        "lucky": false
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Stop",
+                "note": "from the \"Redeem Nook Miles\" section"
+            }
+        ],
+        "buy": [
+            {
+                "price": 9900,
+                "currency": "Nook Miles"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Silver",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/d/da/ABD_%28Silver%29_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/2c/ABD_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/b/b5/ABD_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Red",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/40/ABD_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/23/ABD_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green"
+                ]
+            }
+        ]
     },
     {
-        "name": "Lucky Cat",
-        "url": "https://nookipedia.com/wiki/Lucky_Cat",
-        "image_url": "https://dodo.ac/np/images/thumb/0/0f/Lucky_Cat_%28White%29_NH_Icon.png/64px-Lucky_Cat_%28White%29_NH_Icon.png",
-        "category": "Housewares",
-        "hha_base": 777,
-        "buy": null,
-        "sell": 625,
+        "url": "https://nookipedia.com/wiki/Item%3AAcademic%20painting%20%28fake%29%20%28New%20Horizons%29",
+        "name": "academic painting (fake)",
+        "category": "Wall-Mounted",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Picture",
+        "hha_base": 17,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 0,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "14.415404",
+        "door_decor": true,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
         "themes": [
+            "Horror"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/46/Academic_Painting_%28Fake%29_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcademic%20painting%20%28New%20Horizons%29",
+        "name": "academic painting",
+        "category": "Wall-Mounted",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Picture",
+        "hha_base": 451,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 1245,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "14.415404",
+        "door_decor": true,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Expensive",
+            "European"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/e/e8/Academic_Painting_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAccessories%20stand%20%28New%20Horizons%29",
+        "name": "accessories stand",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "Small Goods",
+        "tag": "Beauty",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 375,
+        "variation_total": 5,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "7.74318",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Stylish",
+            "Apparel shop"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1500,
+                "currency": "Bells"
+            },
+            {
+                "price": 1400,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/b/b9/Accessories_Stand_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/83/Accessories_Stand_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/20/Accessories_Stand_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/86/Accessories_Stand_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Brown",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Light blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/1/15/Accessories_Stand_%28Light_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Aqua",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AACNH%20Nintendo%20Switch%20%28New%20Horizons%29",
+        "name": "ACNH Nintendo Switch",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "Appliance",
+        "tag": "Game Console",
+        "hha_base": 51,
+        "lucky": true,
+        "lucky_season": "All year",
+        "sell": 8990,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "3.6637",
+        "door_decor": false,
+        "version_added": "1.1.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Child's room",
+            "Living room"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "daily selection"
+            },
+            {
+                "from": "Nintendo",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 35960,
+                "currency": "Bells"
+            },
+            {
+                "price": 32400,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/1/1e/ACNH_Nintendo_Switch_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Aqua"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcoustic%20guitar%20%28New%20Horizons%29",
+        "name": "acoustic guitar",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "Musical Instrument",
+        "tag": "Musical Instrument",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 3210,
+        "variation_total": 7,
+        "pattern_total": 0,
+        "customizable": true,
+        "custom_kits": 5,
+        "custom_kit_type": "customization kit",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "15.88148",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Music"
+        ],
+        "functions": [
+            "Instrument"
+        ],
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "Natural",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/42/Acoustic_Guitar_%28Natural%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Cherry",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/88/Acoustic_Guitar_%28Cherry%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/2f/Acoustic_Guitar_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/7/78/Acoustic_Guitar_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/2e/Acoustic_Guitar_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c4/Acoustic_Guitar_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/46/Acoustic_Guitar_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAfternoon-tea%20set%20%28New%20Horizons%29",
+        "name": "afternoon-tea set",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Dining",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 650,
+        "variation_total": 3,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Stand color",
+        "custom_pattern_part": "",
+        "height": "8.756795",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Café",
+            "Fancy"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            },
+            {
+                "from": "Paradise Planning office",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2600,
+                "currency": "Bells"
+            },
+            {
+                "price": 2300,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Silver",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/5/57/Afternoon-Tea_Set_%28Silver%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Gold",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c4/Afternoon-Tea_Set_%28Gold%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/1/1d/Afternoon-Tea_Set_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAgrias%20butterfly%20model%20%28New%20Horizons%29",
+        "name": "agrias butterfly model",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Insect",
+        "hha_base": 251,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 9000,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "7.69278",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Flick",
+                "note": "Trade in 3 of the bug"
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/a/a9/Agrias_Butterfly_Model_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Pink"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAir%20circulator%20%28New%20Horizons%29",
+        "name": "air circulator",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "AC",
+        "tag": "Fan",
+        "hha_base": 151,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 275,
+        "variation_total": 5,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "7.56894",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Living room",
+            "Office"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": "[[summer]]"
+            }
+        ],
+        "buy": [
+            {
+                "price": 1100,
+                "currency": "Bells"
+            },
+            {
+                "price": 990,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/0e/Air_Circulator_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White"
+                ]
+            },
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/d/dd/Air_Circulator_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/9/99/Air_Circulator_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Green",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/6/6e/Air_Circulator_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/8e/Air_Circulator_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAir%20conditioner%20%28New%20Horizons%29",
+        "name": "air conditioner",
+        "category": "Wall-Mounted",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "AC",
+        "tag": "Air Conditioning",
+        "hha_base": 251,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 15750,
+        "variation_total": 6,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "5.58785",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 2,
+        "grid_length": 1,
+        "themes": [
+            "Office",
+            "Living room"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny (upgraded)",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 63000,
+                "currency": "Bells"
+            },
+            {
+                "price": 56700,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c6/Air_Conditioner_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White"
+                ]
+            },
+            {
+                "variation": "Gray",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/9/92/Air_Conditioner_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/b/b6/Air_Conditioner_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/6/69/Air_Conditioner_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/4c/Air_Conditioner_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f5/Air_Conditioner_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Brown"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAji%20fry%20%28New%20Horizons%29",
+        "name": "aji fry",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "DishFood",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 540,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "2.13325",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Restaurant"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "cooking",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/8e/Aji_Fry_NH_Icon.png",
+                "colors": [
+                    "Brown",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAloha-edition%20carrying%20case%20%28New%20Horizons%29",
+        "name": "aloha-edition carrying case",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Game Console",
+        "hha_base": 431,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 620,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "0.945143",
+        "door_decor": false,
+        "version_added": "1.9.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Child's room",
+            "Living room"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "NookLink",
+                "note": "Redeeming Nook Points"
+            }
+        ],
+        "buy": [
+            {
+                "price": 60,
+                "currency": "Nook Points"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c3/Aloha-Edition_Carrying_Case_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAlto%20saxophone%20%28New%20Horizons%29",
+        "name": "alto saxophone",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "Musical Instrument",
+        "tag": "Musical Instrument",
+        "hha_base": 151,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 850,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "11.56996",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Music"
+        ],
+        "functions": [
+            "Instrument"
+        ],
+        "availability": [
+            {
+                "from": "Nook's Cranny (upgraded)",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 3400,
+                "currency": "Bells"
+            },
+            {
+                "price": 3100,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f5/Alto_Saxophone_NH_Icon.png",
+                "colors": [
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAluminum%20briefcase%20%28New%20Horizons%29",
+        "name": "aluminum briefcase",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Office",
+        "hha_base": 251,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 25000,
+        "variation_total": 2,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Contents",
+        "custom_pattern_part": "",
+        "height": "2.18852",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Office",
+            "Expensive"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny (upgraded)",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 100000,
+                "currency": "Bells"
+            },
+            {
+                "price": 90000,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Stacks of cash",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/43/Aluminum_Briefcase_%28Stacks_of_Cash%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Gold bars",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f5/Aluminum_Briefcase_%28Gold_Bars%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAmazing%20machine%20%28New%20Horizons%29",
+        "name": "amazing machine",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Facility Decor",
+        "hha_base": 151,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 35000,
+        "variation_total": 8,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "19.04003",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 2,
+        "grid_length": 1,
+        "themes": [
+            "Lab",
+            "Sci-fi"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            },
+            {
+                "from": "Paradise Planning office",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 140000,
+                "currency": "Bells"
+            },
+            {
+                "price": 126000,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Silver",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/2/29/Amazing_Machine_%28Silver%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c2/Amazing_Machine_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/ce/Amazing_Machine_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Green",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/c8/Amazing_Machine_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/cf/Amazing_Machine_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Red",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/3/3d/Amazing_Machine_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f8/Amazing_Machine_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Damaged",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/e/ef/Amazing_Machine_%28Damaged%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAmazing%20painting%20%28fake%29%20%28New%20Horizons%29",
+        "name": "amazing painting (fake)",
+        "category": "Wall-Mounted",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Picture",
+        "hha_base": 17,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 0,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "21.821896",
+        "door_decor": true,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 2,
+        "grid_length": 2,
+        "themes": [
+            "Horror"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/a/af/Amazing_Painting_%28Fake%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAmazing%20painting%20%28New%20Horizons%29",
+        "name": "amazing painting",
+        "category": "Wall-Mounted",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Picture",
+        "hha_base": 451,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 1245,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "21.821896",
+        "door_decor": true,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 2,
+        "grid_length": 2,
+        "themes": [
+            "Expensive",
+            "European"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/a/a5/Amazing_Painting_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAmp%20%28New%20Horizons%29",
+        "name": "amp",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Musical Instrument",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 1275,
+        "variation_total": 7,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "8.52146",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Concert"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 5100,
+                "currency": "Bells"
+            },
+            {
+                "price": 4600,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/3/3e/Amp_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/86/Amp_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/0c/Amp_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/5/58/Amp_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/5/59/Amp_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Red",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/e/e9/Amp_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/8e/Amp_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnalog%20kitchen%20scale%20%28New%20Horizons%29",
+        "name": "analog kitchen scale",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Kitchen Things",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 275,
+        "variation_total": 8,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "5.9546",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Kitchen",
+            "Restaurant"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1100,
+                "currency": "Bells"
+            },
+            {
+                "price": 990,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f7/Analog_Kitchen_Scale_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/45/Analog_Kitchen_Scale_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Green",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/d/d2/Analog_Kitchen_Scale_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/86/Analog_Kitchen_Scale_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/5/55/Analog_Kitchen_Scale_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Ivory",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/b/bf/Analog_Kitchen_Scale_%28Ivory%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Light blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/4/42/Analog_Kitchen_Scale_%28Light_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Silver",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/6/62/Analog_Kitchen_Scale_%28Silver%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnatomical%20model%20%28New%20Horizons%29",
+        "name": "anatomical model",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Hospital",
+        "hha_base": 151,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 875,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "17.78316",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "School",
+            "Lab"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Nook's Cranny",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 3500,
+                "currency": "Bells"
+            },
+            {
+                "price": 3200,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/0d/Anatomical_Model_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnchoas%20al%20ajillo%20%28New%20Horizons%29",
+        "name": "anchoas al ajillo",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "DishFood",
+        "hha_base": 103,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 600,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "1.48383",
+        "door_decor": false,
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Party",
+            "Restaurant"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "cooking",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/09/Anchoas_al_Ajillo_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnchor%20statue%20%28New%20Horizons%29",
+        "name": "anchor statue",
+        "category": "Housewares",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Seaside",
+        "hha_base": 501,
+        "lucky": true,
+        "lucky_season": "Summer",
+        "sell": 1400,
+        "variation_total": 6,
+        "pattern_total": 0,
+        "customizable": true,
+        "custom_kits": 2,
+        "custom_kit_type": "customization kit",
+        "custom_body_part": "Color",
+        "custom_pattern_part": "",
+        "height": "11.88662",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Ocean"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "C.J.",
+                "note": "Fishing Tourney"
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "Black",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/8/88/Anchor_Statue_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Silver",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/f/f7/Anchor_Statue_%28Silver%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Gold",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/6/61/Anchor_Statue_%28Gold%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "White",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/9/98/Anchor_Statue_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Beige"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/d/dc/Anchor_Statue_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Retro",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/c/cf/Anchor_Statue_%28Retro%29_NH_Icon.png",
+                "colors": [
+                    "Brown",
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnchovy%20model%20%28New%20Horizons%29",
+        "name": "anchovy model",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Fish",
+        "hha_base": 251,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 600,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "2.5",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [],
+        "functions": [],
+        "availability": [
+            {
+                "from": "C.J.",
+                "note": "Trade in 3 of the fish"
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/3/3b/Anchovy_Model_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAncient%20statue%20%28fake%29%20%28New%20Horizons%29",
+        "name": "ancient statue (fake)",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Sculpture",
+        "hha_base": 17,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 0,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "9.877336",
+        "door_decor": false,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Horror"
+        ],
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/1/12/Ancient_Statue_%28Fake%29_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAncient%20statue%20%28New%20Horizons%29",
+        "name": "ancient statue",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Sculpture",
+        "hha_base": 451,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 1245,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "9.877336",
+        "door_decor": false,
+        "version_added": "1.2.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [
+            "Ancient",
             "Harmonious"
         ],
-        "tag": "Furniture",
-        "lucky": true
+        "functions": [],
+        "availability": [
+            {
+                "from": "Jolly Redd's Treasure Trawler",
+                "note": ""
+            },
+            {
+                "from": "Redd's Co-Op",
+                "note": ""
+            },
+            {
+                "from": "any villager",
+                "note": "mailbox"
+            }
+        ],
+        "buy": [
+            {
+                "price": 4980,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/0/03/Ancient_Statue_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAngelfish%20model%20%28New%20Horizons%29",
+        "name": "angelfish model",
+        "category": "Miscellaneous",
+        "item_series": "",
+        "item_set": "",
+        "hha_category": "",
+        "tag": "Fish",
+        "hha_base": 251,
+        "lucky": false,
+        "lucky_season": "",
+        "sell": 9000,
+        "variation_total": 0,
+        "pattern_total": 0,
+        "customizable": false,
+        "custom_kits": 0,
+        "custom_kit_type": "",
+        "custom_body_part": "",
+        "custom_pattern_part": "",
+        "height": "3.33396",
+        "door_decor": false,
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "grid_width": 1,
+        "grid_length": 1,
+        "themes": [],
+        "functions": [],
+        "availability": [
+            {
+                "from": "C.J.",
+                "note": "Trade in 3 of the fish"
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "pattern": "",
+                "image_url": "https://dodo.ac/np/images/e/e2/Angelfish_Model_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            }
+        ]
     }
 ]

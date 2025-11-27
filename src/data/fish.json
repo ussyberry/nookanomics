@@ -1,98 +1,2398 @@
 [
     {
-        "name": "Coelacanth",
-        "url": "https://nookipedia.com/wiki/Coelacanth",
-        "image_url": "https://dodo.ac/np/images/thumb/2/26/Coelacanth_NH_Icon.png/64px-Coelacanth_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
-        "location": "Sea (raining)",
+        "name": "Angelfish",
+        "url": "https://nookipedia.com/wiki/Angelfish",
+        "number": "36",
+        "image_url": "https://dodo.ac/np/images/c/cd/Angelfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/69/Angelfish_NH.png",
+        "catchphrase": "I caught an angelfish! That other fish told me to do it!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Small",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "3000",
+        "sell_cj": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I caught an angelfish! That other fish told me to do it!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "4 PM – 9 AM",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "4 PM – 9 AM",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Arapaima",
+        "url": "https://nookipedia.com/wiki/Arapaima",
+        "number": "44",
+        "image_url": "https://dodo.ac/np/images/b/b1/Arapaima_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/89/Arapaima_NH.png",
+        "catchphrase": "I caught an arapaima! How did it get here? Arapaiknow!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
         "shadow_size": "Huge",
-        "rarity": "Ultra-rare",
-        "north": {
-            "months": "All year"
-        },
-        "south": {
-            "months": "All year"
-        }
-    },
-    {
-        "name": "Great White Shark",
-        "url": "https://nookipedia.com/wiki/Great_White_Shark",
-        "image_url": "https://dodo.ac/np/images/thumb/c/c0/Great_White_Shark_NH_Icon.png/64px-Great_White_Shark_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
-        "location": "Sea",
-        "shadow_size": "Large w/Fin",
         "rarity": "Rare",
-        "north": {
-            "months": "Jun – Sep"
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_cj": "15000",
+        "tank_width": "3",
+        "tank_length": "2",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught an arapaima! How did it get here? Arapaiknow!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Dec – Mar"
-        }
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
     },
     {
-        "name": "Dorado",
-        "url": "https://nookipedia.com/wiki/Dorado",
-        "image_url": "https://dodo.ac/np/images/thumb/1/18/Dorado_NH_Icon.png/64px-Dorado_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
+        "name": "Arowana",
+        "url": "https://nookipedia.com/wiki/Arowana",
+        "number": "41",
+        "image_url": "https://dodo.ac/np/images/6/67/Arowana_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/9/9a/Arowana_NH.png",
+        "catchphrase": "I caught an arowana! I'd make a joke but I don't 'wana.",
+        "catchphrase2": "",
+        "catchphrase3": "",
         "location": "River",
         "shadow_size": "Large",
-        "rarity": "Rare",
-        "north": {
-            "months": "Jun – Sep"
+        "rarity": "Uncommon",
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_cj": "15000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught an arowana! I'd make a joke but I don't 'wana."
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Dec – Mar"
-        }
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
     },
     {
-        "name": "Stringfish",
-        "url": "https://nookipedia.com/wiki/Stringfish",
-        "image_url": "https://dodo.ac/np/images/thumb/3/3d/Stringfish_NH_Icon.png/64px-Stringfish_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
-        "location": "River (clifftop)",
-        "shadow_size": "Huge",
-        "rarity": "Rare",
-        "north": {
-            "months": "Dec – Mar"
-        },
-        "south": {
-            "months": "Jun – Sep"
-        }
-    },
-    {
-        "name": "Golden Trout",
-        "url": "https://nookipedia.com/wiki/Golden_Trout",
-        "image_url": "https://dodo.ac/np/images/thumb/d/d0/Golden_Trout_NH_Icon.png/64px-Golden_Trout_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
-        "location": "River (clifftop)",
+        "name": "Barred knifejaw",
+        "url": "https://nookipedia.com/wiki/Barred%20knifejaw",
+        "number": "58",
+        "image_url": "https://dodo.ac/np/images/d/d5/Barred_Knifejaw_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/1/17/Barred_Knifejaw_NH.png",
+        "catchphrase": "I caught a barred knifejaw! They must have a hard time eating!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
         "shadow_size": "Medium",
-        "rarity": "Rare",
-        "north": {
-            "months": "Mar – May; Sep – Nov"
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "5000",
+        "sell_cj": "7500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Mar – Nov",
+        "s_availability": "Sep – May",
+        "catchphrases": [
+            "I caught a barred knifejaw! They must have a hard time eating!"
+        ],
+        "availability_north": [
+            {
+                "months": "Mar – Nov",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Sep – May",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "NA"
         },
-        "south": {
-            "months": "Sep – Nov; Mar – May"
-        }
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
     },
     {
         "name": "Barreleye",
         "url": "https://nookipedia.com/wiki/Barreleye",
-        "image_url": "https://dodo.ac/np/images/thumb/0/0e/Barreleye_NH_Icon.png/64px-Barreleye_NH_Icon.png",
-        "sell_nook": 15000,
-        "sell_cj": 22500,
+        "number": "79",
+        "image_url": "https://dodo.ac/np/images/e/e0/Barreleye_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/40/Barreleye_NH.png",
+        "catchphrase": "I caught a barreleye! Like eyeing fish in a barrel!",
+        "catchphrase2": "",
+        "catchphrase3": "",
         "location": "Sea",
         "shadow_size": "Small",
         "rarity": "Rare",
-        "north": {
-            "months": "All year"
+        "total_catch": "100",
+        "sell_nook": "15000",
+        "sell_cj": "22500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "9 PM – 4 AM",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "I caught a barreleye! Like eyeing fish in a barrel!"
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "9 PM – 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "9 PM – 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "9 PM – 4 AM",
+            "2": "9 PM – 4 AM",
+            "3": "9 PM – 4 AM",
+            "4": "9 PM – 4 AM",
+            "5": "9 PM – 4 AM",
+            "6": "9 PM – 4 AM",
+            "7": "9 PM – 4 AM",
+            "8": "9 PM – 4 AM",
+            "9": "9 PM – 4 AM",
+            "10": "9 PM – 4 AM",
+            "11": "9 PM – 4 AM",
+            "12": "9 PM – 4 AM"
         },
-        "south": {
-            "months": "All year"
-        }
+        "times_by_month_south": {
+            "1": "9 PM – 4 AM",
+            "2": "9 PM – 4 AM",
+            "3": "9 PM – 4 AM",
+            "4": "9 PM – 4 AM",
+            "5": "9 PM – 4 AM",
+            "6": "9 PM – 4 AM",
+            "7": "9 PM – 4 AM",
+            "8": "9 PM – 4 AM",
+            "9": "9 PM – 4 AM",
+            "10": "9 PM – 4 AM",
+            "11": "9 PM – 4 AM",
+            "12": "9 PM – 4 AM"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Betta",
+        "url": "https://nookipedia.com/wiki/Betta",
+        "number": "37",
+        "image_url": "https://dodo.ac/np/images/0/0b/Betta_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/7/7f/Betta_NH.png",
+        "catchphrase": "I caught a betta! I betta not drop it!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Small",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "2500",
+        "sell_cj": "3750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "9 AM – 4 PM",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I caught a betta! I betta not drop it!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "9 AM – 4 PM",
+            "6": "9 AM – 4 PM",
+            "7": "9 AM – 4 PM",
+            "8": "9 AM – 4 PM",
+            "9": "9 AM – 4 PM",
+            "10": "9 AM – 4 PM",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "9 AM – 4 PM",
+            "2": "9 AM – 4 PM",
+            "3": "9 AM – 4 PM",
+            "4": "9 AM – 4 PM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "9 AM – 4 PM",
+            "12": "9 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Blowfish",
+        "url": "https://nookipedia.com/wiki/Blowfish",
+        "number": "54",
+        "image_url": "https://dodo.ac/np/images/9/95/Blowfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/2/29/Blowfish_NH.png",
+        "catchphrase": "I caught a blowfish! I'm blown away!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Medium",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "5000",
+        "sell_cj": "7500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "9 PM – 4 AM",
+        "n_availability": "Nov – Feb",
+        "s_availability": "May – Aug",
+        "catchphrases": [
+            "I caught a blowfish! I'm blown away!"
+        ],
+        "availability_north": [
+            {
+                "months": "Nov – Feb",
+                "time": "9 PM – 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "May – Aug",
+                "time": "9 PM – 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "9 PM – 4 AM",
+            "2": "9 PM – 4 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "9 PM – 4 AM",
+            "12": "9 PM – 4 AM"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "9 PM – 4 AM",
+            "6": "9 PM – 4 AM",
+            "7": "9 PM – 4 AM",
+            "8": "9 PM – 4 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "name": "Blue marlin",
+        "url": "https://nookipedia.com/wiki/Blue%20marlin",
+        "number": "67",
+        "image_url": "https://dodo.ac/np/images/2/2a/Blue_Marlin_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/0/0e/Blue_Marlin_NH.png",
+        "catchphrase": "I caught a blue marlin! Listen to this fish. It's got a point.",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pier",
+        "shadow_size": "Huge",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_cj": "15000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Nov – Apr; Jul – Sep",
+        "s_availability": "Jan – Mar; May – Oct",
+        "catchphrases": [
+            "I caught a blue marlin! Listen to this fish. It's got a point."
+        ],
+        "availability_north": [
+            {
+                "months": "Nov – Apr; Jul – Sep",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Mar; May – Oct",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "NA",
+            "6": "NA",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "NA",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "NA",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "7",
+            "8",
+            "9",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "name": "Char",
+        "url": "https://nookipedia.com/wiki/Char",
+        "number": "28",
+        "image_url": "https://dodo.ac/np/images/8/80/Char_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/0/0f/Char_NH.png",
+        "catchphrase": "I caught a char! Now I'm gonna sit on it!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River (clifftop)",
+        "shadow_size": "Medium",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "3800",
+        "sell_cj": "5700",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Mar – Jun; Sep – Nov",
+        "s_availability": "Mar – May; Sep – Dec",
+        "catchphrases": [
+            "I caught a char! Now I'm gonna sit on it!"
+        ],
+        "availability_north": [
+            {
+                "months": "Mar – Jun",
+                "time": "4 PM – 9 AM"
+            },
+            {
+                "months": "Sep – Nov",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Sep – Dec",
+                "time": "4 PM – 9 AM"
+            },
+            {
+                "months": "Mar – May",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "4 PM – 9 AM",
+            "7": "NA",
+            "8": "NA",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "3",
+            "4",
+            "5",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Coelacanth",
+        "url": "https://nookipedia.com/wiki/Coelacanth",
+        "number": "80",
+        "image_url": "https://dodo.ac/np/images/4/45/Coelacanth_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/b/b5/Coelacanth_NH.png",
+        "catchphrase": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea (raining)",
+        "shadow_size": "Huge",
+        "rarity": "Rare",
+        "total_catch": "100",
+        "sell_nook": "15000",
+        "sell_cj": "22500",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!"
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Dorado",
+        "url": "https://nookipedia.com/wiki/Dorado",
+        "number": "42",
+        "image_url": "https://dodo.ac/np/images/f/fe/Dorado_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/2/2f/Dorado_NH.png",
+        "catchphrase": "I caught a dorado! ♪I say \"Dorado\", you say \"Doraydo.\"♪",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Very large",
+        "rarity": "Rare",
+        "total_catch": "100",
+        "sell_nook": "15000",
+        "sell_cj": "22500",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 AM – 9 PM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a dorado! ♪I say \"Dorado\", you say \"Doraydo.\"♪"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 AM – 9 PM",
+            "7": "4 AM – 9 PM",
+            "8": "4 AM – 9 PM",
+            "9": "4 AM – 9 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 AM – 9 PM",
+            "2": "4 AM – 9 PM",
+            "3": "4 AM – 9 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 AM – 9 PM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "Football fish",
+        "url": "https://nookipedia.com/wiki/Football%20fish",
+        "number": "77",
+        "image_url": "https://dodo.ac/np/images/3/34/Football_Fish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/e/ef/Football_Fish_NH.png",
+        "catchphrase": "I caught a football fish! Some countries call it a soccer fish!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Large",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "2500",
+        "sell_cj": "3750",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Nov – Mar",
+        "s_availability": "May – Sep",
+        "catchphrases": [
+            "I caught a football fish! Some countries call it a soccer fish!"
+        ],
+        "availability_north": [
+            {
+                "months": "Nov – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "May – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "4 PM – 9 AM",
+            "12": "4 PM – 9 AM"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "4 PM – 9 AM",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "name": "Gar",
+        "url": "https://nookipedia.com/wiki/Gar",
+        "number": "43",
+        "image_url": "https://dodo.ac/np/images/a/a2/Gar_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/c/c8/Gar_NH.png",
+        "catchphrase": "I caught a gar! Yar! It's a gar! Har Har!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pond",
+        "shadow_size": "Very large",
+        "rarity": "Uncommon",
+        "total_catch": "50",
+        "sell_nook": "6000",
+        "sell_cj": "9000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a gar! Yar! It's a gar! Har Har!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "Giant snakehead",
+        "url": "https://nookipedia.com/wiki/Giant%20snakehead",
+        "number": "19",
+        "image_url": "https://dodo.ac/np/images/5/50/Giant_Snakehead_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/2/29/Giant_Snakehead_NH.png",
+        "catchphrase": "I caught a giant snakehead! Um...but I asked for a medium?",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pond",
+        "shadow_size": "Large",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "5500",
+        "sell_cj": "8250",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "9 AM – 4 PM",
+        "n_availability": "Jun – Aug",
+        "s_availability": "Dec – Feb",
+        "catchphrases": [
+            "I caught a giant snakehead! Um...but I asked for a medium?"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Aug",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Feb",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "9 AM – 4 PM",
+            "7": "9 AM – 4 PM",
+            "8": "9 AM – 4 PM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "9 AM – 4 PM",
+            "2": "9 AM – 4 PM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "9 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "12"
+        ]
+    },
+    {
+        "name": "Giant trevally",
+        "url": "https://nookipedia.com/wiki/Giant%20trevally",
+        "number": "68",
+        "image_url": "https://dodo.ac/np/images/1/17/Giant_Trevally_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/1/1a/Giant_Trevally_NH.png",
+        "catchphrase": "I caught a giant trevally! Yeah, I'm pretty well-trevalled.",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pier",
+        "shadow_size": "Very large",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "4500",
+        "sell_cj": "6750",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I caught a giant trevally! Yeah, I'm pretty well-trevalled."
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Golden trout",
+        "url": "https://nookipedia.com/wiki/Golden%20trout",
+        "number": "29",
+        "image_url": "https://dodo.ac/np/images/f/fc/Golden_Trout_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/a/af/Golden_Trout_NH.png",
+        "catchphrase": "I caught a golden trout! But the real treasure? Friendship.",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River (clifftop)",
+        "shadow_size": "Medium",
+        "rarity": "Rare",
+        "total_catch": "100",
+        "sell_nook": "15000",
+        "sell_cj": "22500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Mar – May; Sep – Nov",
+        "s_availability": "Mar – May; Sep – Nov",
+        "catchphrases": [
+            "I caught a golden trout! But the real treasure? Friendship."
+        ],
+        "availability_north": [
+            {
+                "months": "Mar – May; Sep – Nov",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Mar – May; Sep – Nov",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "3",
+            "4",
+            "5",
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "3",
+            "4",
+            "5",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "name": "Goldfish",
+        "url": "https://nookipedia.com/wiki/Goldfish",
+        "number": "7",
+        "image_url": "https://dodo.ac/np/images/7/71/Goldfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/e/e7/Goldfish_NH.png",
+        "catchphrase": "I caught a goldfish! It's worth its weight in fish!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pond",
+        "shadow_size": "Tiny",
+        "rarity": "Common",
+        "total_catch": "0",
+        "sell_nook": "1300",
+        "sell_cj": "1950",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "I caught a goldfish! It's worth its weight in fish!"
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Great white shark",
+        "url": "https://nookipedia.com/wiki/Great%20white%20shark",
+        "number": "74",
+        "image_url": "https://dodo.ac/np/images/2/20/Great_White_Shark_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/41/Great_White_Shark_NH.png",
+        "catchphrase": "I caught a great white shark! Watch out for its jaws!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Very large (finned)",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "15000",
+        "sell_cj": "22500",
+        "tank_width": "3",
+        "tank_length": "2",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a great white shark! Watch out for its jaws!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "Guppy",
+        "url": "https://nookipedia.com/wiki/Guppy",
+        "number": "34",
+        "image_url": "https://dodo.ac/np/images/3/38/Guppy_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/d/d7/Guppy_NH.png",
+        "catchphrase": "I caught a guppy! Welcome to the team, newbie!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Tiny",
+        "rarity": "Rare",
+        "total_catch": "0",
+        "sell_nook": "1300",
+        "sell_cj": "1950",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "9 AM – 4 PM",
+        "n_availability": "Apr – Nov",
+        "s_availability": "Oct – May",
+        "catchphrases": [
+            "I caught a guppy! Welcome to the team, newbie!"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Nov",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – May",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "9 AM – 4 PM",
+            "5": "9 AM – 4 PM",
+            "6": "9 AM – 4 PM",
+            "7": "9 AM – 4 PM",
+            "8": "9 AM – 4 PM",
+            "9": "9 AM – 4 PM",
+            "10": "9 AM – 4 PM",
+            "11": "9 AM – 4 PM",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "9 AM – 4 PM",
+            "2": "9 AM – 4 PM",
+            "3": "9 AM – 4 PM",
+            "4": "9 AM – 4 PM",
+            "5": "9 AM – 4 PM",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "9 AM – 4 PM",
+            "11": "9 AM – 4 PM",
+            "12": "9 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Hammerhead shark",
+        "url": "https://nookipedia.com/wiki/Hammerhead%20shark",
+        "number": "73",
+        "image_url": "https://dodo.ac/np/images/e/ec/Hammerhead_Shark_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/45/Hammerhead_Shark_NH.png",
+        "catchphrase": "I caught a hammerhead shark! I hit the nail on the head!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Very large (finned)",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "8000",
+        "sell_cj": "12000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a hammerhead shark! I hit the nail on the head!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "King salmon",
+        "url": "https://nookipedia.com/wiki/King%20salmon",
+        "number": "32",
+        "image_url": "https://dodo.ac/np/images/e/e1/King_Salmon_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/d/d8/King_Salmon_NH.png",
+        "catchphrase": "WOO-HOO! I caught a king salmon! Checkmate!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River (mouth)",
+        "shadow_size": "Very large",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "1800",
+        "sell_cj": "2700",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Sep",
+        "s_availability": "Mar",
+        "catchphrases": [
+            "WOO-HOO! I caught a king salmon! Checkmate!"
+        ],
+        "availability_north": [
+            {
+                "months": "Sep",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Mar",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "All day",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "All day",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "9"
+        ],
+        "s_availability_array": [
+            "3"
+        ]
+    },
+    {
+        "name": "Koi",
+        "url": "https://nookipedia.com/wiki/Koi",
+        "number": "6",
+        "image_url": "https://dodo.ac/np/images/2/2d/Koi_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/2/24/Koi_NH.png",
+        "catchphrase": "I caught a koi! I don't know why it's so shy... or such a bad speller...",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pond",
+        "shadow_size": "Large",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "4000",
+        "sell_cj": "6000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "I caught a koi! I don't know why it's so shy... or such a bad speller..."
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "4 PM – 9 AM"
+        },
+        "times_by_month_south": {
+            "1": "4 PM – 9 AM",
+            "2": "4 PM – 9 AM",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "4 PM – 9 AM",
+            "7": "4 PM – 9 AM",
+            "8": "4 PM – 9 AM",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "4 PM – 9 AM"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Mahi-mahi",
+        "url": "https://nookipedia.com/wiki/Mahi-mahi",
+        "number": "69",
+        "image_url": "https://dodo.ac/np/images/d/d6/Mahi-Mahi_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/c/ce/Mahi-Mahi_NH.png",
+        "catchphrase": "I caught a mahi-mahi! It's all mahine-mahine.",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Pier",
+        "shadow_size": "Very large",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "6000",
+        "sell_cj": "9000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I caught a mahi-mahi! It's all mahine-mahine."
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Mitten crab",
+        "url": "https://nookipedia.com/wiki/Mitten%20crab",
+        "number": "33",
+        "image_url": "https://dodo.ac/np/images/9/9d/Mitten_Crab_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/40/Mitten_Crab_NH.png",
+        "catchphrase": "I caught a mitten crab! One more and I'm ready for winter!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Small",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "2000",
+        "sell_cj": "3000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 PM – 9 AM",
+        "n_availability": "Sep – Nov",
+        "s_availability": "Mar – May",
+        "catchphrases": [
+            "I caught a mitten crab! One more and I'm ready for winter!"
+        ],
+        "availability_north": [
+            {
+                "months": "Sep – Nov",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Mar – May",
+                "time": "4 PM – 9 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "4 PM – 9 AM",
+            "10": "4 PM – 9 AM",
+            "11": "4 PM – 9 AM",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "4 PM – 9 AM",
+            "4": "4 PM – 9 AM",
+            "5": "4 PM – 9 AM",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "name": "Moray eel",
+        "url": "https://nookipedia.com/wiki/Moray%20eel",
+        "number": "64",
+        "image_url": "https://dodo.ac/np/images/3/3e/Moray_Eel_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/7/74/Moray_Eel_NH.png",
+        "catchphrase": "I caught a moray eel! When you're in love, that's a moray!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Long",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "2000",
+        "sell_cj": "3000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Aug – Oct",
+        "s_availability": "Feb – Apr",
+        "catchphrases": [
+            "I caught a moray eel! When you're in love, that's a moray!"
+        ],
+        "availability_north": [
+            {
+                "months": "Aug – Oct",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Feb – Apr",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "name": "Napoleonfish",
+        "url": "https://nookipedia.com/wiki/Napoleonfish",
+        "number": "52",
+        "image_url": "https://dodo.ac/np/images/3/30/Napoleonfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/62/Napoleonfish_NH.png",
+        "catchphrase": "I caught a Napoleonfish! It's not as big as it thinks!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Huge",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_cj": "15000",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "4 AM – 9 PM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a Napoleonfish! It's not as big as it thinks!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "4 AM – 9 PM",
+            "8": "4 AM – 9 PM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 AM – 9 PM",
+            "2": "4 AM – 9 PM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "Nibble fish",
+        "url": "https://nookipedia.com/wiki/Nibble%20fish",
+        "number": "35",
+        "image_url": "https://dodo.ac/np/images/0/0b/Nibble_Fish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/9/96/Nibble_Fish_NH.png",
+        "catchphrase": "I caught a nibble fish! Come to think of it, I could use a bite!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Tiny",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "1500",
+        "sell_cj": "2250",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "9 AM – 4 PM",
+        "n_availability": "May – Sep",
+        "s_availability": "Nov – Mar",
+        "catchphrases": [
+            "I caught a nibble fish! Come to think of it, I could use a bite!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Sep",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Mar",
+                "time": "9 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "9 AM – 4 PM",
+            "6": "9 AM – 4 PM",
+            "7": "9 AM – 4 PM",
+            "8": "9 AM – 4 PM",
+            "9": "9 AM – 4 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "9 AM – 4 PM",
+            "2": "9 AM – 4 PM",
+            "3": "9 AM – 4 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "9 AM – 4 PM",
+            "12": "9 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Oarfish",
+        "url": "https://nookipedia.com/wiki/Oarfish",
+        "number": "78",
+        "image_url": "https://dodo.ac/np/images/5/50/Oarfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/a/ae/Oarfish_NH.png",
+        "catchphrase": "I caught an oarfish! I hope I catch morefish!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Huge",
+        "rarity": "Rare",
+        "total_catch": "50",
+        "sell_nook": "9000",
+        "sell_cj": "13500",
+        "tank_width": "3",
+        "tank_length": "2",
+        "time": "All day",
+        "n_availability": "Dec – May",
+        "s_availability": "Jun – Nov",
+        "catchphrases": [
+            "I caught an oarfish! I hope I catch morefish!"
+        ],
+        "availability_north": [
+            {
+                "months": "Dec – May",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jun – Nov",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "12"
+        ],
+        "s_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "name": "Ocean sunfish",
+        "url": "https://nookipedia.com/wiki/Ocean%20sunfish",
+        "number": "70",
+        "image_url": "https://dodo.ac/np/images/e/eb/Ocean_Sunfish_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/c/c6/Ocean_Sunfish_NH.png",
+        "catchphrase": "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "Sea",
+        "shadow_size": "Very large (finned)",
+        "rarity": "Rare",
+        "total_catch": "20",
+        "sell_nook": "4000",
+        "sell_cj": "6000",
+        "tank_width": "2",
+        "tank_length": "2",
+        "time": "4 AM – 9 PM",
+        "n_availability": "Jul – Sep",
+        "s_availability": "Jan – Mar",
+        "catchphrases": [
+            "I caught an ocean sunfish! Good thing I'm wearing ocean sunscreen!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Sep",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Mar",
+                "time": "4 AM – 9 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "4 AM – 9 PM",
+            "8": "4 AM – 9 PM",
+            "9": "4 AM – 9 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 AM – 9 PM",
+            "2": "4 AM – 9 PM",
+            "3": "4 AM – 9 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "name": "Pike",
+        "url": "https://nookipedia.com/wiki/Pike",
+        "number": "24",
+        "image_url": "https://dodo.ac/np/images/9/9f/Pike_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/89/Pike_NH.png",
+        "catchphrase": "I caught a pike! Think a swordfish would be up for a duel?",
+        "catchphrase2": "",
+        "catchphrase3": "",
+        "location": "River",
+        "shadow_size": "Very large",
+        "rarity": "Uncommon",
+        "total_catch": "20",
+        "sell_nook": "1800",
+        "sell_cj": "2700",
+        "tank_width": "2",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Sep – Dec",
+        "s_availability": "Mar – Jun",
+        "catchphrases": [
+            "I caught a pike! Think a swordfish would be up for a duel?"
+        ],
+        "availability_north": [
+            {
+                "months": "Sep – Dec",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Mar – Jun",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
     }
 ]

@@ -70,15 +70,6 @@ const Fashion = () => {
                 >
                     Curated looks for every season. Impress Label and express yourself.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline sample data. Add API key for full wardrobe.
-                    </motion.div>
-                )}
             </div>
 
             {/* Controls */}
@@ -102,8 +93,8 @@ const Fashion = () => {
                     <button
                         onClick={() => setSelectedTheme(null)}
                         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${!selectedTheme
-                                ? 'bg-gray-900 text-white shadow-md'
-                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                            ? 'bg-gray-900 text-white shadow-md'
+                            : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                             }`}
                     >
                         All Styles
@@ -113,8 +104,8 @@ const Fashion = () => {
                             key={theme}
                             onClick={() => setSelectedTheme(theme)}
                             className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${selectedTheme === theme
-                                    ? 'bg-pink-500 text-white shadow-md'
-                                    : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                                ? 'bg-pink-500 text-white shadow-md'
+                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                                 }`}
                         >
                             {theme}

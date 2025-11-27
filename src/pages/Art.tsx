@@ -56,15 +56,6 @@ const Art = () => {
                     Secure your portfolio with genuine masterpieces.
                     Avoid forgeries and maximize your museum's value.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline sample data. Add API key for full catalog.
-                    </motion.div>
-                )}
             </div>
 
             {/* Controls */}

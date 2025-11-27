@@ -62,15 +62,6 @@ const RealEstate = () => {
                 >
                     Maximize your HHA score with premium furnishings. Build your dream home's value.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline sample data. Add API key for full catalog.
-                    </motion.div>
-                )}
             </div>
 
             {/* Controls */}
@@ -94,8 +85,8 @@ const RealEstate = () => {
                     <button
                         onClick={() => setSortBy('hha')}
                         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${sortBy === 'hha'
-                                ? 'bg-blue-600 text-white shadow-md'
-                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                            ? 'bg-blue-600 text-white shadow-md'
+                            : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                             }`}
                     >
                         <Award className="w-4 h-4 inline mr-1" />
@@ -104,8 +95,8 @@ const RealEstate = () => {
                     <button
                         onClick={() => setSortBy('price')}
                         className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${sortBy === 'price'
-                                ? 'bg-blue-600 text-white shadow-md'
-                                : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
+                            ? 'bg-blue-600 text-white shadow-md'
+                            : 'bg-white text-gray-600 hover:bg-gray-50 border border-gray-200'
                             }`}
                     >
                         <TrendingUp className="w-4 h-4 inline mr-1" />

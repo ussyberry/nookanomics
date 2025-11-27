@@ -83,15 +83,6 @@ const Villagers = () => {
                     Discover your favorite neighbors from the Animal Crossing universe.
                     Find their personalities, birthdays, and more.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline data. Add API key to see all villagers.
-                    </motion.div>
-                )}
             </div>
 
             {/* Search and Filter Bar */}

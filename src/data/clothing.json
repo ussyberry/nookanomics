@@ -1,116 +1,2739 @@
 [
     {
-        "name": "Royal Crown",
-        "url": "https://nookipedia.com/wiki/Royal_Crown",
-        "image_url": "https://dodo.ac/np/images/thumb/c/c1/Royal_Crown_NH_Icon.png/64px-Royal_Crown_NH_Icon.png",
-        "buy": 1200000,
-        "sell": 300000,
+        "url": "https://nookipedia.com/wiki/Item%3AAcademy%20uniform%20%28New%20Horizons%29",
+        "name": "academy uniform",
+        "category": "Dress-Up",
+        "sell": 520,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
-            "Fairy tale",
             "Formal",
-            "Theatrical"
+            "Party"
         ],
         "styles": [
-            "Gorgeous",
-            "Elegant"
+            "Elegant",
+            "Simple"
         ],
-        "seasonality": "All year",
-        "variations": []
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2080,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/4/47/Academy_Uniform_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/4/44/Academy_Uniform_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/f/ff/Academy_Uniform_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
     },
     {
-        "name": "Crown",
-        "url": "https://nookipedia.com/wiki/Crown",
-        "image_url": "https://dodo.ac/np/images/thumb/3/3d/Crown_NH_Icon.png/64px-Crown_NH_Icon.png",
-        "buy": 1000000,
-        "sell": 250000,
+        "url": "https://nookipedia.com/wiki/Item%3AAlpinist%20dress%20%28New%20Horizons%29",
+        "name": "alpinist dress",
+        "category": "Dress-Up",
+        "sell": 630,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
-            "Fairy tale",
-            "Formal",
-            "Theatrical"
+            "Everyday",
+            "Formal"
         ],
         "styles": [
-            "Gorgeous",
             "Cute"
         ],
-        "seasonality": "All year",
-        "variations": []
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2520,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/d/dd/Alpinist_Dress_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/6/67/Alpinist_Dress_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/4/4d/Alpinist_Dress_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
     },
     {
-        "name": "Visual-Punk Dress",
-        "url": "https://nookipedia.com/wiki/Visual-Punk_Dress",
-        "image_url": "https://dodo.ac/np/images/thumb/3/3b/Visual-Punk_Dress_NH_Icon.png/64px-Visual-Punk_Dress_NH_Icon.png",
-        "buy": 2040,
-        "sell": 510,
+        "url": "https://nookipedia.com/wiki/Item%3AAlpinist%20hat%20%28New%20Horizons%29",
+        "name": "alpinist hat",
+        "category": "Headwear",
+        "sell": 500,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
-            "Goth",
-            "Party",
-            "Theatrical"
+            "Everyday",
+            "Formal"
         ],
         "styles": [
-            "Cool"
+            "Simple",
+            "Elegant"
         ],
-        "seasonality": "All year",
-        "variations": []
+        "availability": [
+            {
+                "from": "Gulliver",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/e/e3/Alpinist_Hat_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/e/e0/Alpinist_Hat_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/0/01/Alpinist_Hat_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            }
+        ]
     },
     {
-        "name": "Dreamy Dress",
-        "url": "https://nookipedia.com/wiki/Dreamy_Dress",
-        "image_url": "https://dodo.ac/np/images/thumb/0/02/Dreamy_Dress_%28Pink%29_NH_Icon.png/64px-Dreamy_Dress_%28Pink%29_NH_Icon.png",
-        "buy": 2080,
-        "sell": 520,
+        "url": "https://nookipedia.com/wiki/Item%3AAlpinist%20overalls%20%28New%20Horizons%29",
+        "name": "alpinist overalls",
+        "category": "Dress-Up",
+        "sell": 630,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Formal"
+        ],
+        "styles": [
+            "Elegant"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2520,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/2/2d/Alpinist_Overalls_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/1/18/Alpinist_Overalls_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/e/e4/Alpinist_Overalls_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAncient%20administrator%20hat%20%28New%20Horizons%29",
+        "name": "ancient administrator hat",
+        "category": "Headwear",
+        "sell": 800,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Formal",
+            "Work"
+        ],
+        "styles": [
+            "Elegant"
+        ],
+        "availability": [
+            {
+                "from": "Gulliver",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/c/c6/Ancient_Administrator_Hat_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAncient%20belted%20robe%20%28New%20Horizons%29",
+        "name": "ancient belted robe",
+        "category": "Dress-Up",
+        "sell": 910,
+        "variation_total": 5,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Formal"
+        ],
+        "styles": [
+            "Elegant",
+            "Cool"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 3640,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/7/77/Ancient_Belted_Robe_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/a/a7/Ancient_Belted_Robe_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/9/99/Ancient_Belted_Robe_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/3/3c/Ancient_Belted_Robe_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Beige",
+                "image_url": "https://dodo.ac/np/images/6/68/Ancient_Belted_Robe_%28Beige%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Brown"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3A3D%20glasses%20%28New%20Horizons%29",
+        "name": "3D glasses",
+        "category": "Accessories",
+        "sell": 122,
+        "variation_total": 2,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Party"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 490,
+                "currency": "Bells"
+            },
+            {
+                "price": 440,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/1/15/3D_Glasses_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/2/28/3D_Glasses_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnimal%20nose%20%28New%20Horizons%29",
+        "name": "animal nose",
+        "category": "Accessories",
+        "sell": 140,
+        "variation_total": 0,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.5.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
             "Fairy tale",
+            "Goth",
             "Party"
         ],
         "styles": [
             "Cute"
         ],
-        "seasonality": "All year",
-        "variations": [
+        "availability": [
             {
-                "variation": "Pink",
-                "image_url": "https://dodo.ac/np/images/thumb/0/02/Dreamy_Dress_%28Pink%29_NH_Icon.png/64px-Dreamy_Dress_%28Pink%29_NH_Icon.png"
+                "from": "Mabel",
+                "note": ""
             },
             {
-                "variation": "Blue",
-                "image_url": "https://dodo.ac/np/images/thumb/9/9f/Dreamy_Dress_%28Blue%29_NH_Icon.png/64px-Dreamy_Dress_%28Blue%29_NH_Icon.png"
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 560,
+                "currency": "Bells"
+            },
+            {
+                "price": 500,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/3/30/Animal_Nose_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
             }
         ]
     },
     {
-        "name": "Tuxedo Jacket",
-        "url": "https://nookipedia.com/wiki/Tuxedo_Jacket",
-        "image_url": "https://dodo.ac/np/images/thumb/6/64/Tuxedo_Jacket_%28Black%29_NH_Icon.png/64px-Tuxedo_Jacket_%28Black%29_NH_Icon.png",
-        "buy": 3800,
-        "sell": 950,
+        "url": "https://nookipedia.com/wiki/Item%3AApple%20dress%20%28New%20Horizons%29",
+        "name": "apple dress",
+        "category": "Dress-Up",
+        "sell": 1600,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Fall",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
-            "Formal",
+            "Fairy tale",
             "Party",
-            "Work"
+            "Theatrical"
         ],
         "styles": [
-            "Gorgeous",
-            "Cool"
+            "Cute"
         ],
-        "seasonality": "All year",
-        "variations": []
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/6/6c/Apple_Dress_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Yellow"
+                ]
+            }
+        ]
     },
     {
-        "name": "Space Parka",
-        "url": "https://nookipedia.com/wiki/Space_Parka",
-        "image_url": "https://dodo.ac/np/images/thumb/a/a9/Space_Parka_%28Blue%29_NH_Icon.png/64px-Space_Parka_%28Blue%29_NH_Icon.png",
-        "buy": 1680,
-        "sell": 420,
+        "url": "https://nookipedia.com/wiki/Item%3AApple%20hat%20%28New%20Horizons%29",
+        "name": "apple hat",
+        "category": "Headwear",
+        "sell": 1000,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Fall",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
         "label_themes": [
+            "Fairy tale",
+            "Party",
+            "Theatrical"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/5/5c/Apple_Hat_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABaby-chick%20costume%20%28New%20Horizons%29",
+        "name": "baby-chick costume",
+        "category": "Dress-Up",
+        "sell": 425,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Party",
+            "Theatrical"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1700,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/4/48/Baby-Chick_Costume_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/5/52/Baby-Chick_Costume_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Beige",
+                "image_url": "https://dodo.ac/np/images/c/c8/Baby-Chick_Costume_%28Beige%29_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AArmor%20shoes%20%28New%20Horizons%29",
+        "name": "armor shoes",
+        "category": "Shoes",
+        "sell": 3000,
+        "variation_total": 0,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Goth"
+        ],
+        "styles": [
+            "Cool",
+            "Gorgeous"
+        ],
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/d/de/Armor_Shoes_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABaggy%20shirt%20%28New%20Horizons%29",
+        "name": "baggy shirt",
+        "category": "Tops",
+        "sell": 10,
+        "variation_total": 3,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Goth",
+            "Comfy"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "recycle box",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/7/76/Baggy_Shirt_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/1/16/Baggy_Shirt_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "image_url": "https://dodo.ac/np/images/a/ab/Baggy_Shirt_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Brown"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABone%20costume%20%28New%20Horizons%29",
+        "name": "bone costume",
+        "category": "Dress-Up",
+        "sell": 320,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Goth"
+        ],
+        "styles": [
+            "Cool"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1280,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/6/66/Bone_Costume_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ADanger%20tank%20%28New%20Horizons%29",
+        "name": "danger tank",
+        "category": "Tops",
+        "sell": 160,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Goth",
             "Comfy",
+            "Vacation"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "daily selection, summer"
+            }
+        ],
+        "buy": [
+            {
+                "price": 640,
+                "currency": "Bells"
+            },
+            {
+                "price": 580,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/8/89/Danger_Tank_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ADoctor%27s%20mask%20%28New%20Horizons%29",
+        "name": "doctor's mask",
+        "category": "Accessories",
+        "sell": 35,
+        "variation_total": 0,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Goth",
+            "Comfy"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 140,
+                "currency": "Bells"
+            },
+            {
+                "price": 130,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/7/7a/Doctor%27s_Mask_NH_Icon.png",
+                "colors": [
+                    "White"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAerobics%20leggings%20%28New%20Horizons%29",
+        "name": "aerobics leggings",
+        "category": "Socks",
+        "sell": 175,
+        "variation_total": 5,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Sporty"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Kicks",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 700,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red & pink",
+                "image_url": "https://dodo.ac/np/images/a/a2/Aerobics_Leggings_%28Red_%26_Pink%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Light blue & salmon pink",
+                "image_url": "https://dodo.ac/np/images/d/de/Aerobics_Leggings_%28Light_Blue_%26_Salmon_Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Purple & orange",
+                "image_url": "https://dodo.ac/np/images/8/81/Aerobics_Leggings_%28Purple_%26_Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "Purple"
+                ]
+            },
+            {
+                "variation": "Emerald & lime",
+                "image_url": "https://dodo.ac/np/images/1/17/Aerobics_Leggings_%28Emerald_%26_Lime%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Yellow & blue",
+                "image_url": "https://dodo.ac/np/images/f/f4/Aerobics_Leggings_%28Yellow_%26_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAthletic%20jacket%20%28New%20Horizons%29",
+        "name": "athletic jacket",
+        "category": "Tops",
+        "sell": 240,
+        "variation_total": 6,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Outdoorsy",
+            "Comfy",
+            "Sporty"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 960,
+                "currency": "Bells"
+            },
+            {
+                "price": 860,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/0/04/Athletic_Jacket_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Berry red",
+                "image_url": "https://dodo.ac/np/images/a/ab/Athletic_Jacket_%28Berry_Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/3/3c/Athletic_Jacket_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/7/7e/Athletic_Jacket_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/8/8a/Athletic_Jacket_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/2/20/Athletic_Jacket_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAthletic%20outfit%20%28New%20Horizons%29",
+        "name": "athletic outfit",
+        "category": "Dress-Up",
+        "sell": 375,
+        "variation_total": 8,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Sporty"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1500,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/3/37/Athletic_Outfit_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Light blue",
+                "image_url": "https://dodo.ac/np/images/1/12/Athletic_Outfit_%28Light_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/5/54/Athletic_Outfit_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/a/a3/Athletic_Outfit_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "image_url": "https://dodo.ac/np/images/4/40/Athletic_Outfit_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/5/5e/Athletic_Outfit_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/d/d7/Athletic_Outfit_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/8/8b/Athletic_Outfit_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAthletic%20pants%20%28New%20Horizons%29",
+        "name": "athletic pants",
+        "category": "Bottoms",
+        "sell": 220,
+        "variation_total": 6,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Outdoorsy",
+            "Comfy",
+            "Sporty"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 880,
+                "currency": "Bells"
+            },
+            {
+                "price": 790,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/7/7e/Athletic_Pants_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Berry red",
+                "image_url": "https://dodo.ac/np/images/f/ff/Athletic_Pants_%28Berry_Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/3/3d/Athletic_Pants_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/d/da/Athletic_Pants_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/2/20/Athletic_Pants_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/9/98/Athletic_Pants_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAthletic%20shorts%20%28New%20Horizons%29",
+        "name": "athletic shorts",
+        "category": "Bottoms",
+        "sell": 140,
+        "variation_total": 6,
+        "vill_equip": false,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Outdoorsy",
+            "Comfy",
+            "Sporty"
+        ],
+        "styles": [
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 560,
+                "currency": "Bells"
+            },
+            {
+                "price": 500,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/d/d6/Athletic_Shorts_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Berry red",
+                "image_url": "https://dodo.ac/np/images/9/96/Athletic_Shorts_%28Berry_Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/0/0c/Athletic_Shorts_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/a/a4/Athletic_Shorts_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/4/48/Athletic_Shorts_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/c/c4/Athletic_Shorts_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABallet%20outfit%20%28New%20Horizons%29",
+        "name": "ballet outfit",
+        "category": "Dress-Up",
+        "sell": 720,
+        "variation_total": 8,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
             "Sporty",
+            "Theatrical",
             "Work"
         ],
         "styles": [
-            "Active",
+            "Cute",
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2880,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/3/34/Ballet_Outfit_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/9/9f/Ballet_Outfit_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/8/85/Ballet_Outfit_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/0/0e/Ballet_Outfit_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/5/58/Ballet_Outfit_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Mint",
+                "image_url": "https://dodo.ac/np/images/7/7d/Ballet_Outfit_%28Mint%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/0/04/Ballet_Outfit_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/5/5a/Ballet_Outfit_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AA%20tee%20%28New%20Horizons%29",
+        "name": "A tee",
+        "category": "Tops",
+        "sell": 140,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "daily selection"
+            }
+        ],
+        "buy": [
+            {
+                "price": 560,
+                "currency": "Bells"
+            },
+            {
+                "price": 500,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/f/fb/A_Tee_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcorn%20knit%20cap%20%28New%20Horizons%29",
+        "name": "acorn knit cap",
+        "category": "Headwear",
+        "sell": 220,
+        "variation_total": 6,
+        "vill_equip": true,
+        "seasonality": "Fall",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy"
+        ],
+        "styles": [
+            "Cute",
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 880,
+                "currency": "Bells"
+            },
+            {
+                "price": 790,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Berry red",
+                "image_url": "https://dodo.ac/np/images/0/01/Acorn_Knit_Cap_%28Berry_Red%29_NH_Icon.png",
+                "colors": [
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Mustard",
+                "image_url": "https://dodo.ac/np/images/5/5b/Acorn_Knit_Cap_%28Mustard%29_NH_Icon.png",
+                "colors": [
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Avocado",
+                "image_url": "https://dodo.ac/np/images/0/0f/Acorn_Knit_Cap_%28Avocado%29_NH_Icon.png",
+                "colors": [
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Navy blue",
+                "image_url": "https://dodo.ac/np/images/5/5d/Acorn_Knit_Cap_%28Navy_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Chestnut",
+                "image_url": "https://dodo.ac/np/images/a/ae/Acorn_Knit_Cap_%28Chestnut%29_NH_Icon.png",
+                "colors": [
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Cream",
+                "image_url": "https://dodo.ac/np/images/c/c3/Acorn_Knit_Cap_%28Cream%29_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAfter-school%20jacket%20%28New%20Horizons%29",
+        "name": "after-school jacket",
+        "category": "Tops",
+        "sell": 262,
+        "variation_total": 7,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy"
+        ],
+        "styles": [
             "Cool"
         ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1050,
+                "currency": "Bells"
+            },
+            {
+                "price": 940,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/d/d1/After-School_Jacket_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/0/02/After-School_Jacket_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/e/e2/After-School_Jacket_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Berry red",
+                "image_url": "https://dodo.ac/np/images/7/7d/After-School_Jacket_%28Berry_Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/4/4b/After-School_Jacket_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/b/b8/After-School_Jacket_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/a/a9/After-School_Jacket_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnimal-stripes%20tee%20%28New%20Horizons%29",
+        "name": "animal-stripes tee",
+        "category": "Tops",
+        "sell": 240,
+        "variation_total": 2,
+        "vill_equip": true,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy"
+        ],
+        "styles": [
+            "Cool",
+            "Gorgeous"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": "Summer"
+            },
+            {
+                "from": "Able Sisters",
+                "note": "Summer"
+            }
+        ],
+        "buy": [
+            {
+                "price": 960,
+                "currency": "Bells"
+            },
+            {
+                "price": 860,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Zebra",
+                "image_url": "https://dodo.ac/np/images/2/26/Animal-Stripes_Tee_%28Zebra%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Tiger",
+                "image_url": "https://dodo.ac/np/images/b/bf/Animal-Stripes_Tee_%28Tiger%29_NH_Icon.png",
+                "colors": [
+                    "Black",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAnnyeong%20tee%20%28New%20Horizons%29",
+        "name": "annyeong tee",
+        "category": "Tops",
+        "sell": 160,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Nook Shopping",
+                "note": "daily selection"
+            }
+        ],
+        "buy": [
+            {
+                "price": 640,
+                "currency": "Bells"
+            },
+            {
+                "price": 580,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/1/1c/Annyeong_Tee_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAran-knit%20cap%20%28New%20Horizons%29",
+        "name": "Aran-knit cap",
+        "category": "Headwear",
+        "sell": 220,
+        "variation_total": 4,
+        "vill_equip": true,
         "seasonality": "Winter",
-        "variations": []
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Outdoorsy",
+            "Comfy"
+        ],
+        "styles": [
+            "Simple",
+            "Elegant"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": "Winter"
+            },
+            {
+                "from": "Able Sisters",
+                "note": "Winter"
+            }
+        ],
+        "buy": [
+            {
+                "price": 880,
+                "currency": "Bells"
+            },
+            {
+                "price": 790,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/3/37/Aran-Knit_Cap_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/1/15/Aran-Knit_Cap_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/9/96/Aran-Knit_Cap_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/3/31/Aran-Knit_Cap_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcorn%20pochette%20%28New%20Horizons%29",
+        "name": "acorn pochette",
+        "category": "Bags",
+        "sell": 2400,
+        "variation_total": 0,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/f/fa/Acorn_Pochette_NH_Icon.png",
+                "colors": [
+                    "Brown",
+                    "Green"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAdventure%20dress%20%28New%20Horizons%29",
+        "name": "adventure dress",
+        "category": "Dress-Up",
+        "sell": 700,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2800,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/3/3b/Adventure_Dress_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAntique%20boots%20%28New%20Horizons%29",
+        "name": "antique boots",
+        "category": "Shoes",
+        "sell": 660,
+        "variation_total": 3,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Fairy tale"
+        ],
+        "styles": [
+            "Simple",
+            "Elegant"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 2640,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/c/c0/Antique_Boots_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "image_url": "https://dodo.ac/np/images/2/22/Antique_Boots_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "Greige",
+                "image_url": "https://dodo.ac/np/images/4/40/Antique_Boots_%28Greige%29_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcid-washed%20jacket%20%28New%20Horizons%29",
+        "name": "acid-washed jacket",
+        "category": "Tops",
+        "sell": 420,
+        "variation_total": 2,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Outdoorsy"
+        ],
+        "styles": [
+            "Simple",
+            "Cool"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1680,
+                "currency": "Bells"
+            },
+            {
+                "price": 1500,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/4/47/Acid-Washed_Jacket_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/8/84/Acid-Washed_Jacket_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AAcid-washed%20jeans%20%28New%20Horizons%29",
+        "name": "acid-washed jeans",
+        "category": "Bottoms",
+        "sell": 330,
+        "variation_total": 2,
+        "vill_equip": false,
+        "seasonality": "Fall",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Outdoorsy"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1320,
+                "currency": "Bells"
+            },
+            {
+                "price": 1200,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/3/36/Acid-Washed_Jeans_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/b/b6/Acid-Washed_Jeans_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABabouches%20%28New%20Horizons%29",
+        "name": "babouches",
+        "category": "Shoes",
+        "sell": 140,
+        "variation_total": 8,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Comfy",
+            "Vacation"
+        ],
+        "styles": [
+            "Cute",
+            "Gorgeous"
+        ],
+        "availability": [
+            {
+                "from": "Kicks",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 560,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/c/c0/Babouches_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "Gray",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/e/e2/Babouches_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/0/03/Babouches_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "image_url": "https://dodo.ac/np/images/5/5e/Babouches_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "White"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/7/7c/Babouches_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Mint",
+                "image_url": "https://dodo.ac/np/images/b/ba/Babouches_%28Mint%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/d/d8/Babouches_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/7/78/Babouches_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABack-bow%20socks%20%28New%20Horizons%29",
+        "name": "back-bow socks",
+        "category": "Socks",
+        "sell": 150,
+        "variation_total": 6,
+        "vill_equip": false,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Fairy tale",
+            "Party",
+            "Vacation"
+        ],
+        "styles": [
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "Kicks",
+                "note": "Spring"
+            }
+        ],
+        "buy": [
+            {
+                "price": 600,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/3/38/Back-Bow_Socks_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Black",
+                "image_url": "https://dodo.ac/np/images/3/3a/Back-Bow_Socks_%28Black%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/0/00/Back-Bow_Socks_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Black"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/4/45/Back-Bow_Socks_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Peacock blue",
+                "image_url": "https://dodo.ac/np/images/8/86/Back-Bow_Socks_%28Peacock_Blue%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/f/f9/Back-Bow_Socks_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Aqua",
+                    "Yellow"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABasket%20bag%20%28New%20Horizons%29",
+        "name": "basket bag",
+        "category": "Bags",
+        "sell": 280,
+        "variation_total": 3,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "2.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Vacation"
+        ],
+        "styles": [
+            "Simple",
+            "Cute"
+        ],
+        "availability": [
+            {
+                "from": "Kicks",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1200,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Light brown",
+                "image_url": "https://dodo.ac/np/images/8/87/Basket_Bag_%28Light_Brown%29_NH_Icon.png",
+                "colors": [
+                    "Beige"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "image_url": "https://dodo.ac/np/images/2/23/Basket_Bag_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "Brown"
+                ]
+            },
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/7/72/Basket_Bag_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABeaded%20sandals%20%28New%20Horizons%29",
+        "name": "beaded sandals",
+        "category": "Shoes",
+        "sell": 450,
+        "variation_total": 6,
+        "vill_equip": false,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Comfy",
+            "Vacation"
+        ],
+        "styles": [
+            "Gorgeous"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": "Summer"
+            },
+            {
+                "from": "Able Sisters",
+                "note": "Summer"
+            }
+        ],
+        "buy": [
+            {
+                "price": 1800,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/a/a4/Beaded_Sandals_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "Red",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "image_url": "https://dodo.ac/np/images/8/85/Beaded_Sandals_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/3/3b/Beaded_Sandals_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "Colorful",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/d/da/Beaded_Sandals_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/8/8d/Beaded_Sandals_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "Colorful"
+                ]
+            },
+            {
+                "variation": "Beige",
+                "image_url": "https://dodo.ac/np/images/2/24/Beaded_Sandals_%28Beige%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Colorful"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABelted%20dotted%20dress%20%28New%20Horizons%29",
+        "name": "belted dotted dress",
+        "category": "Dress-Up",
+        "sell": 500,
+        "variation_total": 4,
+        "vill_equip": true,
+        "seasonality": "Summer",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Party",
+            "Vacation"
+        ],
+        "styles": [
+            "Cute",
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": "Summer"
+            },
+            {
+                "from": "Able Sisters",
+                "note": "Summer"
+            }
+        ],
+        "buy": [
+            {
+                "price": 2000,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/9/9a/Belted_Dotted_Dress_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Yellow",
+                "image_url": "https://dodo.ac/np/images/c/c7/Belted_Dotted_Dress_%28Yellow%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/6/68/Belted_Dotted_Dress_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Light blue",
+                "image_url": "https://dodo.ac/np/images/2/23/Belted_Dotted_Dress_%28Light_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3ABlue%20rose%20crown%20%28New%20Horizons%29",
+        "name": "blue rose crown",
+        "category": "Headwear",
+        "sell": 12000,
+        "variation_total": 0,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Fairy tale",
+            "Party",
+            "Vacation"
+        ],
+        "styles": [
+            "Cute",
+            "Cool"
+        ],
+        "availability": [
+            {
+                "from": "crafting",
+                "note": ""
+            }
+        ],
+        "buy": [],
+        "variations": [
+            {
+                "variation": "",
+                "image_url": "https://dodo.ac/np/images/4/40/Blue_Rose_Crown_NH_Icon.png",
+                "colors": [
+                    "Blue"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AApron%20%28New%20Horizons%29",
+        "name": "apron",
+        "category": "Tops",
+        "sell": 210,
+        "variation_total": 8,
+        "vill_equip": true,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Work"
+        ],
+        "styles": [
+            "Simple",
+            "Active"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 840,
+                "currency": "Bells"
+            },
+            {
+                "price": 760,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/b/b4/Apron_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/6/64/Apron_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "image_url": "https://dodo.ac/np/images/6/68/Apron_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "White"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/6/63/Apron_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Light blue",
+                "image_url": "https://dodo.ac/np/images/f/f4/Apron_%28Light_Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/a/a0/Apron_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Blue"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/8/8f/Apron_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "Purple",
+                    "White"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "image_url": "https://dodo.ac/np/images/d/d1/Apron_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Brown"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AApron%20skirt%20%28New%20Horizons%29",
+        "name": "apron skirt",
+        "category": "Bottoms",
+        "sell": 175,
+        "variation_total": 3,
+        "vill_equip": false,
+        "seasonality": "All year",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Work"
+        ],
+        "styles": [
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 700,
+                "currency": "Bells"
+            },
+            {
+                "price": 630,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/4/4c/Apron_Skirt_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Purple",
+                "image_url": "https://dodo.ac/np/images/3/3c/Apron_Skirt_%28Purple%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Purple"
+                ]
+            },
+            {
+                "variation": "Beige",
+                "image_url": "https://dodo.ac/np/images/d/d3/Apron_Skirt_%28Beige%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Beige"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AArgyle%20crew%20socks%20%28New%20Horizons%29",
+        "name": "argyle crew socks",
+        "category": "Socks",
+        "sell": 180,
+        "variation_total": 8,
+        "vill_equip": false,
+        "seasonality": "Fall",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Formal",
+            "Work"
+        ],
+        "styles": [
+            "Elegant",
+            "Simple"
+        ],
+        "availability": [
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 720,
+                "currency": "Bells"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "White",
+                "image_url": "https://dodo.ac/np/images/e/e9/Argyle_Crew_Socks_%28White%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/0/02/Argyle_Crew_Socks_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "Pink",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/f/f7/Argyle_Crew_Socks_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/3/36/Argyle_Crew_Socks_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Orange",
+                "image_url": "https://dodo.ac/np/images/0/07/Argyle_Crew_Socks_%28Orange%29_NH_Icon.png",
+                "colors": [
+                    "Orange",
+                    "White"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/1/1f/Argyle_Crew_Socks_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "Green",
+                    "Yellow"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/0/0c/Argyle_Crew_Socks_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Beige",
+                "image_url": "https://dodo.ac/np/images/8/81/Argyle_Crew_Socks_%28Beige%29_NH_Icon.png",
+                "colors": [
+                    "Beige",
+                    "Brown"
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://nookipedia.com/wiki/Item%3AArgyle%20vest%20%28New%20Horizons%29",
+        "name": "argyle vest",
+        "category": "Tops",
+        "sell": 360,
+        "variation_total": 6,
+        "vill_equip": true,
+        "seasonality": "Spring",
+        "version_added": "1.0.0",
+        "unlocked": true,
+        "notes": "",
+        "label_themes": [
+            "Everyday",
+            "Formal",
+            "Work"
+        ],
+        "styles": [
+            "Simple",
+            "Elegant"
+        ],
+        "availability": [
+            {
+                "from": "Mabel",
+                "note": ""
+            },
+            {
+                "from": "Able Sisters",
+                "note": ""
+            }
+        ],
+        "buy": [
+            {
+                "price": 1440,
+                "currency": "Bells"
+            },
+            {
+                "price": 1300,
+                "currency": "Poki"
+            }
+        ],
+        "variations": [
+            {
+                "variation": "Gray",
+                "image_url": "https://dodo.ac/np/images/9/9d/Argyle_Vest_%28Gray%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Gray"
+                ]
+            },
+            {
+                "variation": "Red",
+                "image_url": "https://dodo.ac/np/images/e/ec/Argyle_Vest_%28Red%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Red"
+                ]
+            },
+            {
+                "variation": "Pink",
+                "image_url": "https://dodo.ac/np/images/d/dd/Argyle_Vest_%28Pink%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Pink"
+                ]
+            },
+            {
+                "variation": "Green",
+                "image_url": "https://dodo.ac/np/images/4/42/Argyle_Vest_%28Green%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Green"
+                ]
+            },
+            {
+                "variation": "Blue",
+                "image_url": "https://dodo.ac/np/images/d/dc/Argyle_Vest_%28Blue%29_NH_Icon.png",
+                "colors": [
+                    "Blue",
+                    "Aqua"
+                ]
+            },
+            {
+                "variation": "Brown",
+                "image_url": "https://dodo.ac/np/images/e/e4/Argyle_Vest_%28Brown%29_NH_Icon.png",
+                "colors": [
+                    "White",
+                    "Brown"
+                ]
+            }
+        ]
     }
 ]

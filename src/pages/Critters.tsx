@@ -75,15 +75,6 @@ const Critters = () => {
                     Track the market value of local wildlife.
                     Maximize your bells by catching the most valuable critters.
                 </motion.p>
-                {usingLocalData && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        className="inline-block bg-yellow-50 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium border border-yellow-200"
-                    >
-                        Using offline sample data. Add API key for full market data.
-                    </motion.div>
-                )}
             </div>
 
             {/* Controls Section */}
@@ -93,8 +84,8 @@ const Critters = () => {
                     <button
                         onClick={() => setActiveTab('fish')}
                         className={`flex items-center gap-2 px-6 py-2 rounded-lg text-sm font-medium transition-all ${activeTab === 'fish'
-                                ? 'bg-white text-blue-600 shadow-sm'
-                                : 'text-gray-500 hover:text-gray-700'
+                            ? 'bg-white text-blue-600 shadow-sm'
+                            : 'text-gray-500 hover:text-gray-700'
                             }`}
                     >
                         <Fish className="w-4 h-4" />
@@ -103,8 +94,8 @@ const Critters = () => {
                     <button
                         onClick={() => setActiveTab('bugs')}
                         className={`flex items-center gap-2 px-6 py-2 rounded-lg text-sm font-medium transition-all ${activeTab === 'bugs'
-                                ? 'bg-white text-green-600 shadow-sm'
-                                : 'text-gray-500 hover:text-gray-700'
+                            ? 'bg-white text-green-600 shadow-sm'
+                            : 'text-gray-500 hover:text-gray-700'
                             }`}
                     >
                         <Bug className="w-4 h-4" />

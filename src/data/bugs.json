@@ -1,82 +1,2298 @@
 [
     {
-        "name": "Golden Stag",
-        "url": "https://nookipedia.com/wiki/Golden_Stag",
-        "image_url": "https://dodo.ac/np/images/thumb/8/82/Golden_Stag_NH_Icon.png/64px-Golden_Stag_NH_Icon.png",
-        "sell_nook": 12000,
-        "sell_flick": 18000,
-        "location": "Palm trees",
-        "weather": "Any weather",
-        "rarity": "Ultra-rare",
-        "north": {
-            "months": "Jul – Aug"
+        "name": "agrias butterfly",
+        "url": "https://nookipedia.com/wiki/Agrias%20butterfly",
+        "number": "10",
+        "image_url": "https://dodo.ac/np/images/6/60/Agrias_Butterfly_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/d/db/Agrias_Butterfly_NH.png",
+        "catchphrase": "I caught an agrias butterfly! I wonder if it finds me disagrias-able?",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "3000",
+        "sell_flick": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 5 PM",
+        "n_availability": "Apr – Sep",
+        "s_availability": "Oct – Mar",
+        "catchphrases": [
+            "I caught an agrias butterfly! I wonder if it finds me disagrias-able?"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Sep",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – Mar",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "8 AM – 5 PM",
+            "5": "8 AM – 5 PM",
+            "6": "8 AM – 5 PM",
+            "7": "8 AM – 5 PM",
+            "8": "8 AM – 5 PM",
+            "9": "8 AM – 5 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Jan – Feb"
-        }
+        "times_by_month_south": {
+            "1": "8 AM – 5 PM",
+            "2": "8 AM – 5 PM",
+            "3": "8 AM – 5 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "8 AM – 5 PM",
+            "11": "8 AM – 5 PM",
+            "12": "8 AM – 5 PM"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Atlas moth",
+        "url": "https://nookipedia.com/wiki/Atlas%20moth",
+        "number": "14",
+        "image_url": "https://dodo.ac/np/images/7/7f/Atlas_Moth_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/a/a4/Atlas_Moth_NH.png",
+        "catchphrase": "I caught an Atlas moth! I bet it never gets lost!",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "3000",
+        "sell_flick": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM – 4 AM",
+        "n_availability": "Apr – Sep",
+        "s_availability": "Oct – Mar",
+        "catchphrases": [
+            "I caught an Atlas moth! I bet it never gets lost!"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Sep",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – Mar",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "7 PM – 4 AM",
+            "5": "7 PM – 4 AM",
+            "6": "7 PM – 4 AM",
+            "7": "7 PM – 4 AM",
+            "8": "7 PM – 4 AM",
+            "9": "7 PM – 4 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "7 PM – 4 AM",
+            "2": "7 PM – 4 AM",
+            "3": "7 PM – 4 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "7 PM – 4 AM",
+            "11": "7 PM – 4 AM",
+            "12": "7 PM – 4 AM"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "banded dragonfly",
+        "url": "https://nookipedia.com/wiki/Banded%20dragonfly",
+        "number": "34",
+        "image_url": "https://dodo.ac/np/images/3/35/Banded_Dragonfly_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/6e/Banded_Dragonfly_NH.png",
+        "catchphrase": "I did it! Did you see that? I caught a banded dragonfly!",
+        "catchphrase2": "",
+        "location": "Flying near water",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "4500",
+        "sell_flick": "6750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 5 PM",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I did it! Did you see that? I caught a banded dragonfly!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "8 AM – 5 PM",
+            "6": "8 AM – 5 PM",
+            "7": "8 AM – 5 PM",
+            "8": "8 AM – 5 PM",
+            "9": "8 AM – 5 PM",
+            "10": "8 AM – 5 PM",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "8 AM – 5 PM",
+            "2": "8 AM – 5 PM",
+            "3": "8 AM – 5 PM",
+            "4": "8 AM – 5 PM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "8 AM – 5 PM",
+            "12": "8 AM – 5 PM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "cyclommatus stag",
+        "url": "https://nookipedia.com/wiki/Cyclommatus%20stag",
+        "number": "59",
+        "image_url": "https://dodo.ac/np/images/a/a0/Cyclommatus_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/64/Cyclommatus_Stag_NH.png",
+        "catchphrase": "I caught a cyclommatus stag! Those mandibles are a mouthful!",
+        "catchphrase2": "",
+        "location": "On palm trees",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a cyclommatus stag! Those mandibles are a mouthful!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "dung beetle",
+        "url": "https://nookipedia.com/wiki/Dung%20beetle",
+        "number": "50",
+        "image_url": "https://dodo.ac/np/images/c/c4/Dung_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/f/f8/Dung_Beetle_NH.png",
+        "catchphrase": "I caught a dung beetle! This species likes feces!",
+        "catchphrase2": "",
+        "location": "Pushing snowballs",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "3000",
+        "sell_flick": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Dec – Feb",
+        "s_availability": "Jun – Aug",
+        "catchphrases": [
+            "I caught a dung beetle! This species likes feces!"
+        ],
+        "availability_north": [
+            {
+                "months": "Dec – Feb",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jun – Aug",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "12"
+        ],
+        "s_availability_array": [
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "name": "emperor butterfly",
+        "url": "https://nookipedia.com/wiki/Emperor%20butterfly",
+        "number": "9",
+        "image_url": "https://dodo.ac/np/images/c/cf/Emperor_Butterfly_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/f/f1/Emperor_Butterfly_NH.png",
+        "catchphrase": "I caught an emperor butterfly! It's not your average monarch!",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "4000",
+        "sell_flick": "6000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Dec – Mar; Jun – Sep",
+        "s_availability": "Jun – Sep; Dec – Mar",
+        "catchphrases": [
+            "I caught an emperor butterfly! It's not your average monarch!"
+        ],
+        "availability_north": [
+            {
+                "months": "Dec – Mar; Jun – Sep",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jun – Sep; Dec – Mar",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "5 PM – 8 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "5 PM – 8 AM",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "5 PM – 8 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "5 PM – 8 AM"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "5 PM – 8 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "5 PM – 8 AM",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "5 PM – 8 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "5 PM – 8 AM"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "name": "giant stag",
+        "url": "https://nookipedia.com/wiki/Giant%20stag",
+        "number": "57",
+        "image_url": "https://dodo.ac/np/images/0/08/Giant_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/6b/Giant_Stag_NH.png",
+        "catchphrase": "Whoaaa! I caught a giant stag! I'm gonna need way bigger pockets...",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_flick": "15000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "11 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "Whoaaa! I caught a giant stag! I'm gonna need way bigger pockets..."
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "11 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "11 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "11 PM – 8 AM",
+            "8": "11 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "11 PM – 8 AM",
+            "2": "11 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "giant water bug",
+        "url": "https://nookipedia.com/wiki/Giant%20water%20bug",
+        "number": "40",
+        "image_url": "https://dodo.ac/np/images/8/86/Giant_Water_Bug_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/6/68/Giant_Water_Bug_NH.png",
+        "catchphrase": "I caught a giant water bug! It should've stayed in the water!",
+        "catchphrase2": "",
+        "location": "On rivers and ponds",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "2000",
+        "sell_flick": "3000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM – 8 AM",
+        "n_availability": "Apr – Sep",
+        "s_availability": "Oct – Mar",
+        "catchphrases": [
+            "I caught a giant water bug! It should've stayed in the water!"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Sep",
+                "time": "7 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – Mar",
+                "time": "7 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "7 PM – 8 AM",
+            "5": "7 PM – 8 AM",
+            "6": "7 PM – 8 AM",
+            "7": "7 PM – 8 AM",
+            "8": "7 PM – 8 AM",
+            "9": "7 PM – 8 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "7 PM – 8 AM",
+            "2": "7 PM – 8 AM",
+            "3": "7 PM – 8 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "7 PM – 8 AM",
+            "11": "7 PM – 8 AM",
+            "12": "7 PM – 8 AM"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "10",
+            "11",
+            "12"
+        ]
     },
     {
         "name": "Giraffe Stag",
-        "url": "https://nookipedia.com/wiki/Giraffe_Stag",
-        "image_url": "https://dodo.ac/np/images/thumb/4/41/Giraffe_Stag_NH_Icon.png/64px-Giraffe_Stag_NH_Icon.png",
-        "sell_nook": 12000,
-        "sell_flick": 18000,
-        "location": "Palm trees",
+        "url": "https://nookipedia.com/wiki/Giraffe%20stag",
+        "number": "61",
+        "image_url": "https://dodo.ac/np/images/c/c7/Giraffe_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/a/a3/Giraffe_Stag_NH.png",
+        "catchphrase": "I caught a giraffe stag! Does that make it a longhorn?",
+        "catchphrase2": "",
+        "location": "On palm trees",
         "weather": "Any weather",
-        "rarity": "Rare",
-        "north": {
-            "months": "Jul – Aug"
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "12000",
+        "sell_flick": "18000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a giraffe stag! Does that make it a longhorn?"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Jan – Feb"
-        }
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
     },
     {
-        "name": "Horned Hercules",
-        "url": "https://nookipedia.com/wiki/Horned_Hercules",
-        "image_url": "https://dodo.ac/np/images/thumb/c/c2/Horned_Hercules_NH_Icon.png/64px-Horned_Hercules_NH_Icon.png",
-        "sell_nook": 12000,
-        "sell_flick": 18000,
-        "location": "Palm trees",
+        "name": "Golden Stag",
+        "url": "https://nookipedia.com/wiki/Golden%20stag",
+        "number": "60",
+        "image_url": "https://dodo.ac/np/images/b/ba/Golden_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/1/1d/Golden_Stag_NH.png",
+        "catchphrase": "Wooooow! I caught a golden stag! Does this mean I can retire?",
+        "catchphrase2": "",
+        "location": "On palm trees",
         "weather": "Any weather",
-        "rarity": "Rare",
-        "north": {
-            "months": "Jul – Aug"
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "12000",
+        "sell_flick": "18000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "Wooooow! I caught a golden stag! Does this mean I can retire?"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Jan – Feb"
-        }
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
     },
     {
-        "name": "Scorpion",
+        "name": "Goliath Beetle",
+        "url": "https://nookipedia.com/wiki/Goliath%20beetle",
+        "number": "54",
+        "image_url": "https://dodo.ac/np/images/3/3e/Goliath_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/43/Goliath_Beetle_NH.png",
+        "catchphrase": "I caught a goliath beetle! Am I a legend or what?",
+        "catchphrase2": "",
+        "location": "On palm trees",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a goliath beetle! Am I a legend or what?"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "5 PM – 8 AM",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "5 PM – 8 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "5 PM – 8 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "5 PM – 8 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "great purple emperor",
+        "url": "https://nookipedia.com/wiki/Great%20purple%20emperor",
+        "number": "7",
+        "image_url": "https://dodo.ac/np/images/8/81/Great_Purple_Emperor_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/3/3f/Great_Purple_Emperor_NH.png",
+        "catchphrase": "I caught a great purple emperor! Its purple reign is over now!",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "3000",
+        "sell_flick": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 AM – 7 PM",
+        "n_availability": "May – Aug",
+        "s_availability": "Nov – Feb",
+        "catchphrases": [
+            "I caught a great purple emperor! Its purple reign is over now!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Aug",
+                "time": "4 AM – 7 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Feb",
+                "time": "4 AM – 7 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "4 AM – 7 PM",
+            "6": "4 AM – 7 PM",
+            "7": "4 AM – 7 PM",
+            "8": "4 AM – 7 PM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "4 AM – 7 PM",
+            "2": "4 AM – 7 PM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "4 AM – 7 PM",
+            "12": "4 AM – 7 PM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "horned atlas",
+        "url": "https://nookipedia.com/wiki/Horned%20atlas",
+        "number": "63",
+        "image_url": "https://dodo.ac/np/images/2/2a/Horned_Atlas_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/0/06/Horned_Atlas_NH.png",
+        "catchphrase": "I caught a horned atlas! I didn't even need a map!",
+        "catchphrase2": "",
+        "location": "On palm trees",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a horned atlas! I didn't even need a map!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "horned dynastid",
+        "url": "https://nookipedia.com/wiki/Horned%20dynastid",
+        "number": "62",
+        "image_url": "https://dodo.ac/np/images/1/10/Horned_Dynastid_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/4f/Horned_Dynastid_NH.png",
+        "catchphrase": "I caught a horned dynastid! I'd hate to hear it honk that schnoz!",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "1350",
+        "sell_flick": "2025",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a horned dynastid! I'd hate to hear it honk that schnoz!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "horned elephant",
+        "url": "https://nookipedia.com/wiki/Horned%20elephant",
+        "number": "64",
+        "image_url": "https://dodo.ac/np/images/e/ea/Horned_Elephant_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/b/b9/Horned_Elephant_NH.png",
+        "catchphrase": "I caught a horned elephant! I think it's too small to ride...",
+        "catchphrase2": "",
+        "location": "On palm trees",
+        "weather": "Any weather",
+        "rarity": "Very rare",
+        "total_catch": "100",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a horned elephant! I think it's too small to ride..."
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "horned hercules",
+        "url": "https://nookipedia.com/wiki/Horned%20hercules",
+        "number": "65",
+        "image_url": "https://dodo.ac/np/images/2/21/Horned_Hercules_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/47/Horned_Hercules_NH.png",
+        "catchphrase": "I caught a horned hercules! Guess I was stronger!",
+        "catchphrase2": "",
+        "location": "On palm trees",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "100",
+        "sell_nook": "12000",
+        "sell_flick": "18000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "5 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a horned hercules! Guess I was stronger!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "5 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "5 PM – 8 AM",
+            "8": "5 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "5 PM – 8 AM",
+            "2": "5 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "Jewel Beetle",
+        "url": "https://nookipedia.com/wiki/Jewel%20beetle",
+        "number": "45",
+        "image_url": "https://dodo.ac/np/images/4/43/Jewel_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/82/Jewel_Beetle_NH.png",
+        "catchphrase": "I caught a jewel beetle! It's a real gem!",
+        "catchphrase2": "",
+        "location": "On tree stumps",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "2400",
+        "sell_flick": "3600",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Apr – Aug",
+        "s_availability": "Oct – Feb",
+        "catchphrases": [
+            "I caught a jewel beetle! It's a real gem!"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Aug",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – Feb",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Madagascan sunset moth",
+        "url": "https://nookipedia.com/wiki/Madagascan%20sunset%20moth",
+        "number": "15",
+        "image_url": "https://dodo.ac/np/images/6/69/Madagascan_Sunset_Moth_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/c/c8/Madagascan_Sunset_Moth_NH.png",
+        "catchphrase": "I caught a Madagascan sunset moth! Wow, you're not from around here!",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "2500",
+        "sell_flick": "3750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 4 PM",
+        "n_availability": "Apr – Sep",
+        "s_availability": "Oct – Mar",
+        "catchphrases": [
+            "I caught a Madagascan sunset moth! Wow, you're not from around here!"
+        ],
+        "availability_north": [
+            {
+                "months": "Apr – Sep",
+                "time": "8 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Oct – Mar",
+                "time": "8 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "8 AM – 4 PM",
+            "5": "8 AM – 4 PM",
+            "6": "8 AM – 4 PM",
+            "7": "8 AM – 4 PM",
+            "8": "8 AM – 4 PM",
+            "9": "8 AM – 4 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "8 AM – 4 PM",
+            "2": "8 AM – 4 PM",
+            "3": "8 AM – 4 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "8 AM – 4 PM",
+            "11": "8 AM – 4 PM",
+            "12": "8 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "orchid mantis",
+        "url": "https://nookipedia.com/wiki/Orchid%20mantis",
+        "number": "23",
+        "image_url": "https://dodo.ac/np/images/a/a7/Orchid_Mantis_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/c/cd/Orchid_Mantis_NH.png",
+        "catchphrase": "I caught an orchid mantis! Our friendship is blooming!",
+        "catchphrase2": "",
+        "location": "On white flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "2400",
+        "sell_flick": "3600",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 5 PM",
+        "n_availability": "Mar – Nov",
+        "s_availability": "Sep – May",
+        "catchphrases": [
+            "I caught an orchid mantis! Our friendship is blooming!"
+        ],
+        "availability_north": [
+            {
+                "months": "Mar – Nov",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Sep – May",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "8 AM – 5 PM",
+            "4": "8 AM – 5 PM",
+            "5": "8 AM – 5 PM",
+            "6": "8 AM – 5 PM",
+            "7": "8 AM – 5 PM",
+            "8": "8 AM – 5 PM",
+            "9": "8 AM – 5 PM",
+            "10": "8 AM – 5 PM",
+            "11": "8 AM – 5 PM",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "8 AM – 5 PM",
+            "2": "8 AM – 5 PM",
+            "3": "8 AM – 5 PM",
+            "4": "8 AM – 5 PM",
+            "5": "8 AM – 5 PM",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "8 AM – 5 PM",
+            "10": "8 AM – 5 PM",
+            "11": "8 AM – 5 PM",
+            "12": "8 AM – 5 PM"
+        },
+        "n_availability_array": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "peacock butterfly",
+        "url": "https://nookipedia.com/wiki/Peacock%20butterfly",
+        "number": "4",
+        "image_url": "https://dodo.ac/np/images/7/77/Peacock_Butterfly_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/8e/Peacock_Butterfly_NH.png",
+        "catchphrase": "I caught a peacock butterfly! Now it's my turn to strut my stuff!",
+        "catchphrase2": "",
+        "location": "Flying near blue, purple, and black flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "2500",
+        "sell_flick": "3750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "4 AM – 7 PM",
+        "n_availability": "Mar – Jun",
+        "s_availability": "Sep – Dec",
+        "catchphrases": [
+            "I caught a peacock butterfly! Now it's my turn to strut my stuff!"
+        ],
+        "availability_north": [
+            {
+                "months": "Mar – Jun",
+                "time": "4 AM – 7 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Sep – Dec",
+                "time": "4 AM – 7 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "4 AM – 7 PM",
+            "4": "4 AM – 7 PM",
+            "5": "4 AM – 7 PM",
+            "6": "4 AM – 7 PM",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "4 AM – 7 PM",
+            "10": "4 AM – 7 PM",
+            "11": "4 AM – 7 PM",
+            "12": "4 AM – 7 PM"
+        },
+        "n_availability_array": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "s_availability_array": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Queen Alexandra's birdwing",
+        "url": "https://nookipedia.com/wiki/Queen%20Alexandra%27s%20birdwing",
+        "number": "12",
+        "image_url": "https://dodo.ac/np/images/b/bb/Queen_Alexandra%27s_Birdwing_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/8a/Queen_Alexandra%27s_Birdwing_NH.png",
+        "catchphrase": "I caught a Queen Alexandra's birdwing! That's a feather in my cap!",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "4000",
+        "sell_flick": "6000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 4 PM",
+        "n_availability": "May – Sep",
+        "s_availability": "Nov – Mar",
+        "catchphrases": [
+            "I caught a Queen Alexandra's birdwing! That's a feather in my cap!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Sep",
+                "time": "8 AM – 4 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Mar",
+                "time": "8 AM – 4 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "8 AM – 4 PM",
+            "6": "8 AM – 4 PM",
+            "7": "8 AM – 4 PM",
+            "8": "8 AM – 4 PM",
+            "9": "8 AM – 4 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "8 AM – 4 PM",
+            "2": "8 AM – 4 PM",
+            "3": "8 AM – 4 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "8 AM – 4 PM",
+            "12": "8 AM – 4 PM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Rainbow Stag",
+        "url": "https://nookipedia.com/wiki/Rainbow%20stag",
+        "number": "58",
+        "image_url": "https://dodo.ac/np/images/f/f7/Rainbow_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/8/82/Rainbow_Stag_NH.png",
+        "catchphrase": "I caught a rainbow stag! Its rainbow armor is so shiny!",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "6000",
+        "sell_flick": "9000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM – 8 AM",
+        "n_availability": "Jun – Sep",
+        "s_availability": "Dec – Mar",
+        "catchphrases": [
+            "I caught a rainbow stag! Its rainbow armor is so shiny!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jun – Sep",
+                "time": "7 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Dec – Mar",
+                "time": "7 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "7 PM – 8 AM",
+            "7": "7 PM – 8 AM",
+            "8": "7 PM – 8 AM",
+            "9": "7 PM – 8 AM",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "7 PM – 8 AM",
+            "2": "7 PM – 8 AM",
+            "3": "7 PM – 8 AM",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "7 PM – 8 AM"
+        },
+        "n_availability_array": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "12"
+        ]
+    },
+    {
+        "name": "Rajah Brooke's birdwing",
+        "url": "https://nookipedia.com/wiki/Rajah%20Brooke%27s%20birdwing",
+        "number": "11",
+        "image_url": "https://dodo.ac/np/images/8/81/Rajah_Brooke%27s_Birdwing_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/b/b7/Rajah_Brooke%27s_Birdwing_NH.png",
+        "catchphrase": "I caught a Rajah Brooke's birdwing! Nothing else I'd rajah be doing!",
+        "catchphrase2": "",
+        "location": "Flying near flowers",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "2500",
+        "sell_flick": "3750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "8 AM – 5 PM",
+        "n_availability": "Dec – Feb; Apr – Sep",
+        "s_availability": "Jun – Aug; Oct – Mar",
+        "catchphrases": [
+            "I caught a Rajah Brooke's birdwing! Nothing else I'd rajah be doing!"
+        ],
+        "availability_north": [
+            {
+                "months": "Dec – Feb; Apr – Sep",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jun – Aug; Oct – Mar",
+                "time": "8 AM – 5 PM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "8 AM – 5 PM",
+            "2": "8 AM – 5 PM",
+            "3": "NA",
+            "4": "8 AM – 5 PM",
+            "5": "8 AM – 5 PM",
+            "6": "8 AM – 5 PM",
+            "7": "8 AM – 5 PM",
+            "8": "8 AM – 5 PM",
+            "9": "8 AM – 5 PM",
+            "10": "NA",
+            "11": "NA",
+            "12": "8 AM – 5 PM"
+        },
+        "times_by_month_south": {
+            "1": "8 AM – 5 PM",
+            "2": "8 AM – 5 PM",
+            "3": "8 AM – 5 PM",
+            "4": "NA",
+            "5": "NA",
+            "6": "8 AM – 5 PM",
+            "7": "8 AM – 5 PM",
+            "8": "8 AM – 5 PM",
+            "9": "NA",
+            "10": "8 AM – 5 PM",
+            "11": "8 AM – 5 PM",
+            "12": "8 AM – 5 PM"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "7",
+            "8",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Rosalia Batesi Beetle",
+        "url": "https://nookipedia.com/wiki/Rosalia%20batesi%20beetle",
+        "number": "48",
+        "image_url": "https://dodo.ac/np/images/7/7c/Rosalia_Batesi_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/44/Rosalia_Batesi_Beetle_NH.png",
+        "catchphrase": "I caught a rosalia batesi beetle! That's easier to do than say!",
+        "catchphrase2": "",
+        "location": "On tree stumps",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "3000",
+        "sell_flick": "4500",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "May – Sep",
+        "s_availability": "Nov – Mar",
+        "catchphrases": [
+            "I caught a rosalia batesi beetle! That's easier to do than say!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Sep",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Mar",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "Saw Stag",
+        "url": "https://nookipedia.com/wiki/Saw%20stag",
+        "number": "55",
+        "image_url": "https://dodo.ac/np/images/0/03/Saw_Stag_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/e/e0/Saw_Stag_NH.png",
+        "catchphrase": "I caught a saw stag! Now I can't unsee it!",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "2000",
+        "sell_flick": "3000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a saw stag! Now I can't unsee it!"
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "All day",
+            "8": "All day",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "Scarab Beetle",
+        "url": "https://nookipedia.com/wiki/Scarab%20beetle",
+        "number": "52",
+        "image_url": "https://dodo.ac/np/images/e/ee/Scarab_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/d/db/Scarab_Beetle_NH.png",
+        "catchphrase": "I caught a scarab beetle! It's just a dung beetle with better hobbies.",
+        "catchphrase2": "",
+        "location": "On trees (any kind)",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "50",
+        "sell_nook": "10000",
+        "sell_flick": "15000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "11 PM – 8 AM",
+        "n_availability": "Jul – Aug",
+        "s_availability": "Jan – Feb",
+        "catchphrases": [
+            "I caught a scarab beetle! It's just a dung beetle with better hobbies."
+        ],
+        "availability_north": [
+            {
+                "months": "Jul – Aug",
+                "time": "11 PM – 8 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Jan – Feb",
+                "time": "11 PM – 8 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "11 PM – 8 AM",
+            "8": "11 PM – 8 AM",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "11 PM – 8 AM",
+            "2": "11 PM – 8 AM",
+            "3": "NA",
+            "4": "NA",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "7",
+            "8"
+        ],
+        "s_availability_array": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "name": "scorpion",
         "url": "https://nookipedia.com/wiki/Scorpion",
-        "image_url": "https://dodo.ac/np/images/thumb/3/34/Scorpion_NH_Icon.png/64px-Scorpion_NH_Icon.png",
-        "sell_nook": 8000,
-        "sell_flick": 12000,
+        "number": "80",
+        "image_url": "https://dodo.ac/np/images/9/95/Scorpion_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/f/fe/Scorpion_NH.png",
+        "catchphrase": "I caught a scorpion! It was a sting operation!",
+        "catchphrase2": "",
         "location": "On the ground",
         "weather": "Any weather",
-        "rarity": "Rare",
-        "north": {
-            "months": "May – Oct"
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM – 4 AM",
+        "n_availability": "May – Oct",
+        "s_availability": "Nov – Apr",
+        "catchphrases": [
+            "I caught a scorpion! It was a sting operation!"
+        ],
+        "availability_north": [
+            {
+                "months": "May – Oct",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov – Apr",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "7 PM – 4 AM",
+            "6": "7 PM – 4 AM",
+            "7": "7 PM – 4 AM",
+            "8": "7 PM – 4 AM",
+            "9": "7 PM – 4 AM",
+            "10": "7 PM – 4 AM",
+            "11": "NA",
+            "12": "NA"
         },
-        "south": {
-            "months": "Nov – Apr"
-        }
+        "times_by_month_south": {
+            "1": "7 PM – 4 AM",
+            "2": "7 PM – 4 AM",
+            "3": "7 PM – 4 AM",
+            "4": "7 PM – 4 AM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "7 PM – 4 AM",
+            "12": "7 PM – 4 AM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
     },
     {
-        "name": "Tarantula",
+        "name": "tarantula",
         "url": "https://nookipedia.com/wiki/Tarantula",
-        "image_url": "https://dodo.ac/np/images/thumb/e/e5/Tarantula_NH_Icon.png/64px-Tarantula_NH_Icon.png",
-        "sell_nook": 8000,
-        "sell_flick": 12000,
+        "number": "79",
+        "image_url": "https://dodo.ac/np/images/b/b5/Tarantula_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/b/bf/Tarantula_NH.png",
+        "catchphrase": "I caught a tarantula! This situation just got hairy!",
+        "catchphrase2": "",
         "location": "On the ground",
         "weather": "Any weather",
-        "rarity": "Rare",
-        "north": {
-            "months": "Nov – Apr"
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM – 4 AM",
+        "n_availability": "Nov – Apr",
+        "s_availability": "May – Oct",
+        "catchphrases": [
+            "I caught a tarantula! This situation just got hairy!"
+        ],
+        "availability_north": [
+            {
+                "months": "Nov – Apr",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "May – Oct",
+                "time": "7 PM – 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "7 PM – 4 AM",
+            "2": "7 PM – 4 AM",
+            "3": "7 PM – 4 AM",
+            "4": "7 PM – 4 AM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "7 PM – 4 AM",
+            "12": "7 PM – 4 AM"
         },
-        "south": {
-            "months": "May – Oct"
-        }
+        "times_by_month_south": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "7 PM – 4 AM",
+            "6": "7 PM – 4 AM",
+            "7": "7 PM – 4 AM",
+            "8": "7 PM – 4 AM",
+            "9": "7 PM – 4 AM",
+            "10": "7 PM – 4 AM",
+            "11": "NA",
+            "12": "NA"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "name": "tiger beetle",
+        "url": "https://nookipedia.com/wiki/Tiger%20beetle",
+        "number": "44",
+        "image_url": "https://dodo.ac/np/images/5/58/Tiger_Beetle_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/a/a0/Tiger_Beetle_NH.png",
+        "catchphrase": "I caught a tiger beetle! I pounced first!",
+        "catchphrase2": "",
+        "location": "On the ground",
+        "weather": "Any except rain",
+        "rarity": "",
+        "total_catch": "20",
+        "sell_nook": "1500",
+        "sell_flick": "2250",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "Feb – Oct",
+        "s_availability": "Aug – Apr",
+        "catchphrases": [
+            "I caught a tiger beetle! I pounced first!"
+        ],
+        "availability_north": [
+            {
+                "months": "Feb – Oct",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Aug – Apr",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "name": "wasp",
+        "url": "https://nookipedia.com/wiki/Wasp",
+        "number": "25",
+        "image_url": "https://dodo.ac/np/images/a/a5/Wasp_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/b/bb/Wasp_NH.png",
+        "catchphrase": "I caught a wasp! That's gotta sting...",
+        "catchphrase2": "",
+        "location": "Shaking non-fruit hardwood trees or cedar trees",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "2500",
+        "sell_flick": "3750",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "I caught a wasp! That's gotta sting..."
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
     }
 ]

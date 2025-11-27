@@ -164,7 +164,9 @@ export interface NHArtwork {
 }
 
 export const fetchArt = async (params: { thumbsize?: number } = {}): Promise<NHArtwork[]> => {
-    return fetchEndpoint<NHArtwork[]>('nh/art', params);
+    // Add default thumbsize if not provided
+    const defaultParams = { thumbsize: 128, ...params };
+    return fetchEndpoint<NHArtwork[]>('nh/art', defaultParams);
 };
 
 export interface NHClothing {
@@ -187,9 +189,12 @@ export const fetchClothing = async (params: {
     color?: string[];
     style?: string[];
     labeltheme?: string;
+    excludedetails?: string;
     thumbsize?: number
 } = {}): Promise<NHClothing[]> => {
-    return fetchEndpoint<NHClothing[]>('nh/clothing', params);
+    // Add default thumbsize if not provided
+    const defaultParams = { thumbsize: 128, ...params };
+    return fetchEndpoint<NHClothing[]>('nh/clothing', defaultParams);
 };
 
 export interface NHFurniture {
@@ -210,7 +215,9 @@ export const fetchFurniture = async (params: {
     color?: string[];
     thumbsize?: number
 } = {}): Promise<NHFurniture[]> => {
-    return fetchEndpoint<NHFurniture[]>('nh/furniture', params);
+    // Add default thumbsize if not provided
+    const defaultParams = { thumbsize: 128, ...params };
+    return fetchEndpoint<NHFurniture[]>('nh/furniture', defaultParams);
 };
 
 export interface NHRecipe {
@@ -229,7 +236,9 @@ export const fetchRecipes = async (params: {
     material?: string;
     thumbsize?: number
 } = {}): Promise<NHRecipe[]> => {
-    return fetchEndpoint<NHRecipe[]>('nh/recipes', params);
+    // Add default thumbsize if not provided
+    const defaultParams = { thumbsize: 128, ...params };
+    return fetchEndpoint<NHRecipe[]>('nh/recipes', defaultParams);
 };
 
 // Generic fetch helper to avoid code duplication
